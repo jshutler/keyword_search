@@ -1,0 +1,2282 @@
+{
+    "data": {
+        "0": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Jacqueline Lhuillier?",
+                            "id": 458844,
+                            "answers": [
+                                {
+                                    "answer_id": 568648,
+                                    "document_id": 979403,
+                                    "question_id": 458844,
+                                    "text": "EXCHANGE FOUR FRANCS POINT SEVEN ZERO.  PAYROLL PAY\nPERIOD NUMBER TWENTY-TWO (10\/27-11\/09\/74) PAY JACQUELINE\nLHUILLIER.",
+                                    "answer_start": 345,
+                                    "answer_end": 464,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  PARIS 26049  041951Z\n\n64\nACTION AID-05\n\nINFO  OCT-01  ISO-00  RSC-01  \/007 W\n                       ---------------------     107288\nR 041937Z NOV 74\nFM AMEMBASSY PARIS\nTO SECSTATE WASHDC 3862\n\nUNCLAS PARIS 26049\n\nFOR: AID\/W ATTN: SER\/FM\/ESD FROM BF\n\nE.O. 11652: N\/A\nTAGS: AFIN,FR\nSUBJECT: TIME AND ATTENDANCE REPORT\n\nUS$ EXCHANGE FOUR FRANCS POINT SEVEN ZERO.  PAYROLL PAY\nPERIOD NUMBER TWENTY-TWO (10\/27-11\/09\/74) PAY JACQUELINE\nLHUILLIER.\nSTONE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000001
+                }
+            ]
+        },
+        "1": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "General Termo Dynamics Corp",
+                            "id": 458848,
+                            "answers": [
+                                {
+                                    "answer_id": 568850,
+                                    "document_id": 979406,
+                                    "question_id": 458848,
+                                    "text": " OCT. 1 GENERAL TERMODYNAMICS CORP",
+                                    "answer_start": 496,
+                                    "answer_end": 530,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  MEXICO 09331  042011Z\n\n66\nACTION ARA-10\n\nINFO  OCT-01  ISO-00  EB-06  RSC-01  \/018 W\n                       ---------------------     107493\nR 041848Z NOV 74\nFM AMEMBASSY MEXICO\nTO USDOC WASHDC\nINFO SECSTATE WASHDC 4646\n\nUNCLAS MEXICO 9331\n\nE.O. 11652:  N\/A\nTAGS:  BEXP, MX\nSUBJECT:  PROCESS CONTROL EXHIBITION IMPORTABILITY RULINGS\n\nCOMMERCE FOR CLARY\n\nFROM:  US TRADE CENTER\n\nACCORDING TO UNOFFICIAL OPINION EQUIPMENT OF THE FOLLOWING\nCOMPANIES CAN BE IMPORTED.\n\n1.  MEMO OCT. 1 GENERAL TERMODYNAMICS CORP.\n\n2.  MEMEO OCT. 1 INTERNATIONAL MICROTRONICS CORP.\n\n3.  MEMO OCT 1 METRA INSTRUMENTS INC.\n\n4.  MEMO OCT. 1 CONTROL PRODUCTS DIV. AMERACE CORP.\n\n5.  MEMO OCT. 4 MONITOR MANUFACTURING INC.\n\n6.  MEMO OCT. 4 HIAC DIV. PACIFIC SCIENTIFIC CO.\n\n7.  MEMO OCT. 4 PRIME COMPUTER INC.\n\n8.  MEMO OCT. 9 THERMO-LAB. INSTRUMENTS INC.\n\n9.  MEMO OCT. 16 GAS TECH INC.\n\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  MEXICO 09331  042011Z\n\n10.  MEMO OCT. 18 UNITED DETECTOR TECHNOLOGY INC.\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000004
+                }
+            ]
+        },
+        "2": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "AMCONSUL MEDELLIN RUEHDC",
+                            "id": 458849,
+                            "answers": [
+                                {
+                                    "answer_id": 568852,
+                                    "document_id": 979407,
+                                    "question_id": 458849,
+                                    "text": "SUBJ: PRIVATE TRADE OPPORTUNITY",
+                                    "answer_start": 317,
+                                    "answer_end": 348,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  MEDELL 00342  051931Z\n\n64\nACTION ARA-10\n\nINFO  OCT-01  ISO-00  EB-06  RSC-01  \/018 W\n                       ---------------------     123530\nR 042150Z NOV 74\nFM AMCONSUL MEDELLIN\nTO RUEHDC USDOC WASHDC\nINFO SECSTATE WASHDC 938\nAMEMBASSY BOGOTA\n\nUNCLAS MEDELLIN 0342\n\nE.O. 11652: N\/A\nTAGS: BEXP\nSUBJ: PRIVATE TRADE OPPORTUNITY\n\n1. 301\/06\/P-0017\n\n2. 103174\n\n3. J. COOPER\n\n4. 301 COLOMBIA\n\n5. M.\n\n6. REPLY TO - -\n\n6B. A DAVID RABINOVICH, GERENTE\n\n6C. ANDINA DE CURTIDOS LTDA\n    APARTADO AEREO 1137\n    MEDELLIN,COLOMBIA\n\n7. CABLE: ANDICUR MEDELLIN. TEL. 740340\n\n8.  - -\n\n9. 101\n\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  MEDELL 00342  051931Z\n\n10. DESCRIPTION\n\n    2869213-0000 GLUTARALDEHYDE, 50 0\/0, AQUEOUS SOLUTION, IN STEEL\n    DRUMS.\n\n    3559589-0000 GLUE-MAKING EQUIPMENT, STARTING WITH LIMED HIDE\n    WASTE\n\n    3636071-0000 GLSEWING AND CLICKING MACHINES FOR\n    INDUSTRIAL GLOVES MANUFACTURE.\n\n     LARGE TANNERY LOCATED IN THE MUNICIPALITY OF COPACABANA, ABOUT\n     8 MILES FROM MEDELLIN. OPERATES WITH MODERN MACHINERY. ITS\n     PRODUCTS ARE WELL RECEIVED , WITH AN ANNUAL VOLUME OF SALES\n     OF 45 MILLION PESOS. EMPLOYS 215.\nCOOPER\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000005
+                }
+            ]
+        },
+        "3": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "MARIE THERESE BILZ",
+                            "id": 458851,
+                            "answers": [
+                                {
+                                    "answer_id": 568872,
+                                    "document_id": 979409,
+                                    "question_id": 458851,
+                                    "text": " BECAME\nSERIOUSLY ILL AND PASSED AWAY THIS WEEK-END.",
+                                    "answer_start": 575,
+                                    "answer_end": 627,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  PARIS 26015  041903Z\n\n64\nACTION SCSE-00\n\nINFO  OCT-01  ISO-00  \/001 W\n                       ---------------------     106738\nR 041857Z NOV 74\nFM AMEMBASSY PARIS\nTO SECSTATE WASHDC 3852\n\nUNCLAS PARIS 26015\n\nE.O. 11652:  N\/A\nTAGS:  CDES (BILZ, MARIE THERESE)\nSUBJECT:  DEATH OF AMERICAN CITIZEN: MARIE THERESE BILZ\n\nSINCE EMBASSY NOT IN POSSESSION FULL ADDRESS, REQUEST\nDEPARTMENT PASS FOLLOWING TELEPHONICALLY TO MRS.\nBERNADETTE JAMBESKI OF DEEPDALE AVENUE, LITTLE NECK,\nNEW YORK, TELEPHONE BAYSIDE 428-1426.\n\nQUOTE DEEPLY REGRET TO INFORM YOU THAT MOM BECAME\nSERIOUSLY ILL AND PASSED AWAY THIS WEEK-END.  EXPECT\nSEE YOU ABOUT NOVEMBER 8.  LOVE.  POP.  UNQUOTE\nSTONE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000007
+                }
+            ]
+        },
+        "4": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Salt Treaty?",
+                            "id": 458853,
+                            "answers": [
+                                {
+                                    "answer_id": 568879,
+                                    "document_id": 979411,
+                                    "question_id": 458853,
+                                    "text": "GENERAL BROWN SAID WE HAD NO EVIDENCE OF VIOLATIONS OF\nTHE SALT TREATY AND I'VE SAID THAT AS WELL.  I REPEAT IT\nTODAY.",
+                                    "answer_start": 864,
+                                    "answer_end": 982,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  STATE  242665\n\n66\nORIGIN ACDA-10\n\nINFO  OCT-01  ISO-00  CIAE-00  DODE-00  INR-05  NSAE-00  PA-01\n\n      RSC-01  PRS-01  SP-02  PM-03  NSC-05  SS-15  SSO-00  NSCE-00\n\n      INRE-00  L-01  \/045 R\n\nDRAFTED BY ACDA\/PA:RSSMITH\nAPPROVED BY ACDA\/PA:RSSMITH\nC:NETERRELL (SUBS)\nS\/S: MR. MOFFAT\n                       ---------------------     110360\nO 050014Z NOV 74\nFM SECSTATE WASHDC\nTO USDEL SALT TWO GENEVA IMMEDIATE\n\n\nLIMITED OFFICIAL USE STATE 242665\n\nE.O. 11652:  N\/A\nTAGS: OGEN\nSUBJECT:  EXCERPT FROM PENTAGON NEWS BRIEFING OCT 31.\n\n1.Q: COULD YOU COMMENT ON THE PERSISTENT REPORTS ABOUT\nTHE BUILDING OF MORE SILOS THAN ALLOWED IN THE ARMS\nTREATY -- 200 NEW SILOS?\n2.A: NO. THAT QUESTION WAS ASKED THE OTHER DAY, AND MY\nANSWER WAS NO COMMENT.\n3.Q: GENERAL BROWN SAID THERE WERE NO TREATY VIOLATIONS AND\nYOU'RE SAYING NO COMMENT.\n4.A: GENERAL BROWN SAID WE HAD NO EVIDENCE OF VIOLATIONS OF\nTHE SALT TREATY AND I'VE SAID THAT AS WELL.  I REPEAT IT\nTODAY.\n5.Q:WOULDN'T THAT BE A VIOLATION OF THE ARMS TREATY IS\nTHEY WERE CONSTRUCTING UP TO 200 SILOS?\n6.A: WE WENT THROUGH THIS EXACT SAME GROUND ONCE BEFORE AND\nI SAID THEN -- AND WE CAN DIG  IT OUT FOR YOU -- THAT THERE\nIS A LIMIT ON THE NUMBER OF MISSILE SILOS THAT CAN BE\nBUILT UNDER THE SALT AGREEMENT, AND WE HAVE NO EVIDENCE OF\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 02  STATE  242665\n\nANY VIOLATION OF THAT AGREEMENT.\n7.Q: ARE YOU SUGGESTING THAT THE HOLES OR WHATEVER IS BEING\nCONSTRUCTED ARE NOT MISSILE SILOS, IS THAT CORRECT?\n8.A: THAT'S A FAIR INFERENCE.\n9.Q: ARE YOU SAYING THAT THEY ARE CONSTRUCTING SOMETHING\nUNDERGROUND WHICH CAN BE SOMETHING OTHER THAN SILOS?\n\n10. A: THERE HAVE BEEN SOME INDICATIONS THAT THE SOVIETS\nARE BUILDING SOME COMMAND AND CONTROL FACILITIES IN THEIR\nSILO FIELDS.  THEY'VE HAD COMMAND AND CONTROL FACILITIES\nBEFORE, AS OBVIOUSLY YOU'D ALWAYS HAVE COMMAND AND\nCONTROL ASSOCIATED WITH MISSILE FIRING.  THIS IS NOT\nREALLY NEW, IT HAS BEEN IN THE PRESS FOR AT LEAST A\nCOUPLE OF YEARS.\n11. Q: DOES ONE OF THOSE THINGS LOOK LIKE A MISSILE SILO?\nTHE LAST TIME I WAS IN A MINUTEMAN COMMAND AND CONTROL\nCENTER, I DON'T REMEMBER THAT IT LOOKED LIKE A SILO.\n12. A: THE SOVIETS DON'T ALWAYS FOLLOW OUR ARCHITECTUAL\nSTYLES.\n13. Q: WHAT STYLE THEY DO USE IS WHAT I'M ASKING.\n14. A: I DON'T WHAT TO GO INTO SPECIFICS ON THAT TODAY.\n15. Q: WE'RE LEFT WITH GENERAL BROWN SAYING CATEGORICALLY\nTHE SOVIETS HAVE NOT VIOLATED THE SALT AGREEMENT.  WE ASK\n\nYOU ABOUT REPORTS THAT THEY'RE BUILDING UP TO 200 NEW\nSILOS AND YOU SAY \"NO COMMENT.\"  YOU SAY THERE ARE\nSUBLIMITS TO THE TYPES OF SILOS THAT CAN BE BUILT.  I'M\nSURE THAT 200 WOULD BE A VIOLATION OF THE TREATY.\n16. A: I THINK I'VE GONE BEYOND THAT NOW IN THE MORE\nRECENT DISCUSSION IN SAYING THAT THERE APPEARS TO BE SOME\nCONSTRUCTION OF COMMAND AND CONTROL FACILITIES IN THE\nMISSILE FIELDS.\n17. Q: I BELIEVE THE SALT AGREEMENT SET UP A CONSULTATIVE\nCOMMITTEE TO DEAL WITH JUST THIS KIND OF QUESTION.  HAS\nTHIS BEEN RAISED WITH THE SOVIET UNION?\n18. A: I DO NOT CARE TO GO INTO WHAT HAS OR HASN'T BEEN\nDISCUSSED IN THE STANDING CONSULTATIVE COMMISSION.  I\nDON'T THINK IT WOULD BE APPROPRIATE FOR ME TO DO SO.   INGERSOLL\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000010
+                }
+            ]
+        },
+        "5": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "FRANCIS MCNEIL",
+                            "id": 458855,
+                            "answers": [
+                                {
+                                    "answer_id": 568948,
+                                    "document_id": 979413,
+                                    "question_id": 458855,
+                                    "text": "FRANCIS MCNEIL,\nWILLIAM RICHARDSON AND ROBERT DUEMLING. THESE PERSONS NOT LISTED\nREFTEL. PLEASE ADVISE IF WE SHOULD CANCEL RESERVATIONS.",
+                                    "answer_start": 400,
+                                    "answer_end": 536,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  BOGOTA 09787  051854Z\n\n44\nACTION OIC-02\n\nINFO  OCT-01  ARA-10  ISO-00  IO-10  SS-15  SSO-00  \/038 W\n                       ---------------------     123142\nO 051741Z NOV 74\nFM AMEMBASSY BOGOTA\nTO SECSTATE WASHDC IMMEDIATE 5579\n\nUNCLAS BOGOTA 9787\n\nEO 11652: NA\nTAGS: OCON OTRA OAS\nSUBJ: OAS MINISTERS MEETING\n\nREF: STATE 242567\n\nEMB HOLDING HOTEL AND AIRPLANE RESERVATIONS FOR FRANCIS MCNEIL,\nWILLIAM RICHARDSON AND ROBERT DUEMLING. THESE PERSONS NOT LISTED\nREFTEL. PLEASE ADVISE IF WE SHOULD CANCEL RESERVATIONS.\nWHITE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000012
+                }
+            ]
+        },
+        "6": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "WILLIAM MATHEWS PORTER",
+                            "id": 458857,
+                            "answers": [
+                                {
+                                    "answer_id": 568950,
+                                    "document_id": 979415,
+                                    "question_id": 458857,
+                                    "text": "92.18 DOLLARS.",
+                                    "answer_start": 395,
+                                    "answer_end": 409,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  BOGOTA 09828  062053Z\n\n70\nACTION SCSE-00\n\nINFO  OCT-01  FSE-00  ISO-00  H-02  \/003 W\n                       ---------------------     011278\nR 052215Z NOV 74\nFM AMEMBASSY BOGOTA\nTO SECSTATE WASHDC 5604\n\nUNCLAS BOGOTA 9828\n\nEO 11652: NA\nTAGS: CDES CO\nSUBJ: DEPOSIT OF FUNDS WILLIAM MATHEWS PORTER\n\n1. TOTAL BURIAL EXPENSES FOR SUBJECT AMOUNTED TO PESOS 2,500\nEQUIVALENT TO 92.18 DOLLARS.\n\n2. DEPARTMENT REQUESTED SET UP TRUST FUND ACCOUNT FOR ABOVE\nAMOUNT.\n\n3. THE REASON FOR LESSER COST THAN ORIGINALLY ESTIMATED IS THAT\nDECEDENT WAS BURIED IN CRIPT FROM WHICH REMAINS MUST BE REMOVED\nIN TWO YEARS. SHOULD FAMILY WISH PERMANENT CRIPT EMBASSY WILL OBTAIN\nNECESSARY INFORMATION INCLUDING COSTS AND FORWARD TO MISS\nMCQUAIG.\nWHITE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000014
+                }
+            ]
+        },
+        "7": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "WILLIAM SMITH?",
+                            "id": 458859,
+                            "answers": [
+                                {
+                                    "answer_id": 568953,
+                                    "document_id": 979417,
+                                    "question_id": 458859,
+                                    "text": " NOTED AMERICAN ARTIST AND PRESIDENT,\nINTERNATIONAL ASSOCIATION OF ART",
+                                    "answer_start": 529,
+                                    "answer_end": 599,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  STATE  242951\n\n21\nORIGIN CU-03\n\nINFO  OCT-01  EUR-08  ISO-00  USIA-06  \/018 R\n\nDRAFTED BY CU\/EE:KSWILLIAMS:AMM\nAPPROVED BY CU\/EE:YRICHMOND\nCU\/EE:PHACKER (SUBS)\nEUR\/SOV:FRIGGS (SUBS)\nUSIA\/IEE:JMANDROS (SUBS)\n                       ---------------------     114053\nR 050141Z NOV 74\nFM SECSTATE WASHDC\nTO AMEMBASSY MOSCOW\nINFO AMCONSUL LENINGRAD\n\n\nLIMITED OFFICIAL USE STATE 242951\n\nE.O. 11652: N\/A\n\nTAGS:OEXC, UR  (SMITH, WILLIAM)\n\nSUBJECT: STAG WILLIAM SMITH\n\nREF:  MOSCOW  13737\n\n1.  WILLIAM SMITH, NOTED AMERICAN ARTIST AND PRESIDENT,\nINTERNATIONAL ASSOCIATION OF ART, STILL PLANNING VISIT\nMOSCOW AND LENINGRAD WITH WIFE, UNDER AUSPICES OF USSR\nUNION OF ARTISTS FOR 2 WEEKS BEGINNING DEC 1.  CU GRANT IS\nBEING WRITTEN FOR TRAVEL AND EDUCATIONAL MATERIALS.\nSMITH WILL PAY FOR WIFE'S TRANSPORTATION.\n\n2.  SMITH FEELS THAT SINCE HE HAS BEEN INVITED BY ARTISTS'\nUNION HE SHOULD BE PROGRAMMED BY THEM FOR 1ST 2 WEEKS DEC.\nHOWEVER, SMITH WILLING TO BE PROGRAMMED BY EMBASSY AFTER\nDEC 15.  POST COULD PAY PER DIEM AND HONORARIUM OUT OF GOE,\nOR CU GRANT COULD BE AWARDED TO PROVIDE FOR DEPARTMENT\nFUNDING.   INGERSOLL\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000016
+                }
+            ]
+        },
+        "8": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "PUBLICITY",
+                            "id": 458861,
+                            "answers": [
+                                {
+                                    "answer_id": 568960,
+                                    "document_id": 979419,
+                                    "question_id": 458861,
+                                    "text": "ONCE THE SENATOR HAS LEFT WARSAW",
+                                    "answer_start": 685,
+                                    "answer_end": 717,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  WARSAW 06664  051625Z\n\n44\nACTION H-03\n\nINFO  OCT-01  EUR-06  ISO-00  SS-07  NSC-06  AID-01  RSC-01  \/025 W\n                       ---------------------     121285\nP 051615Z NOV 74\nFM AMEMBASSY WARSAW\nTO SECSTATE WASHDC PRIORITY 2031\nINFO USIA WASHDC PRIORITY\n\n\nLIMITED OFFICIAL USE WARSAW 6664\n\nE.O. 11652: N\/A\nTAGS: OREP\nSUBJECT: CODEL - SENATOR JAMES L. BUCKLEY\n\nREF WARSAW 6661\n\n1. IN ORDER TO AVOID POSSIBLE COMPLICATIONS (LIKE THOSE\nWHICH AROSE IN THE CASE OF THE ABORTIVE VISIT TO WARSAW OF\nSENATOR EDWARD KENNEDY), THERE SHOULD BE NO PUBLICITY\nABOUT THE POSSIBILITY OF A MEETING WITH CARDINAL\nWYSZYNSKI BEFORE SENATOR BUCKLEY COMES TO WARSAW.\n\n2. ONCE THE SENATOR HAS LEFT WARSAW, PUBLICITY CAN BE\nGIVEN TO THE MEETING WITH THE CARDINAL.\nDAVIES\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000018
+                }
+            ]
+        },
+        "9": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "STAG ANDREW SCHEFFEY",
+                            "id": 458863,
+                            "answers": [
+                                {
+                                    "answer_id": 568962,
+                                    "document_id": 979421,
+                                    "question_id": 458863,
+                                    "text": "CANNOT PROGRAMVISIT DECEMBER 30.  SCHEDULE\nFOR WEEK OF JANUARY 13, 1975.",
+                                    "answer_start": 412,
+                                    "answer_end": 484,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  CARACA 10921  051906Z\n\n62\nACTION CU-04\n\nINFO  OCT-01  ARA-10  ISO-00  \/015 W\n                       ---------------------     123257\nR 051621Z NOV 74\nFM AMEMBASSY CARACAS\nTO SECSTATE WASHDC 6511\nINFO USIA WASHDC\n\nUNCLAS CARACAS 10921\n\nFOR:  STATE FOR CU\/ARA; USIA FOR ILA\/RODGERS\n\nE.O. 11652:  N\/A\nTAGS:  OEXC VE (SCHEFFEY, ANDREW J.W.)\nSUBJECT:  STAG ANDREW SCHEFFEY\n\nREF:  STATE 240353\n\nCANNOT PROGRAMVISIT DECEMBER 30.  SCHEDULE\nFOR WEEK OF JANUARY 13, 1975.  PLEASE CONFIRM.\nMCCLINTOCK\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000020
+                }
+            ]
+        },
+        "10": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "JOHN STEVENS?",
+                            "id": 458860,
+                            "answers": [
+                                {
+                                    "answer_id": 568959,
+                                    "document_id": 979418,
+                                    "question_id": 458860,
+                                    "text": "ASSISTANT TO R.D. D'URBAN, DIRECTOR OF EXHIBITIONS\nBUSINESS EQUIPMENT TRADE ASSOCIATION (BETA) LONDON",
+                                    "answer_start": 566,
+                                    "answer_end": 667,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  STATE  242764\n\n12\nORIGIN COME-00\n\nINFO  OCT-01  EUR-08  ISO-00  EB-04  RSC-01  \/014 R\n\n66612\nDRAFTED BY:COM\/BIC\/OIM\/NE:JRCROWN\nAPPROVED BY:EB\/OCA\/REP:BEBYRON\nCOM\/BIC\/OIM:CJBARRETT, RMD   COM\/OIM\/PD\/PC\/P&S:CAGENDREAU\n                       ---------------------     112292\nR 050041Z NOV 74\nFM SECSTATE WASHDC\nTO AMEMBASSY LONDON\n\n\nLIMITED OFFICIAL USE STATE 242764\n\nFOR NORRIS\n\nE.O. 11652:  N\/A\nTAGS:  BEXP, UK\nSUBJECT:  USTC TELECOMMUNICATIONS EXHIBITION, MAY 1975 CONFLICTS\n\nREF:  BELDEN\/NORRIS TELCON OCTOBER 29, 1974\n\nJOHN STEVENS, ASSISTANT TO R.D. D'URBAN, DIRECTOR OF EXHIBITIONS\nBUSINESS EQUIPMENT TRADE ASSOCIATION (BETA) LONDON, UNEXPECTEDLY\nVISITED OIM'S UK SECTION OCTOBER 31.\n\nFOLLOWING IS HIS CONFIDENTIAL ACCOUNT AND ASSESSMENT OF LOCALLY\nMOUNTED TELECOMMUNICATIONS TYPE EXHIBITIONS IN CONTEXT WITH\nPOSSIBLE CONFLICT FOR USTC MAY 1975 EXHIBITION:\n\nCOMMUNICATIONS '74 AND '76 SHOWS IN BRIGHTON, NOW ESTABLISHED AS\nBIENNIAL EVENT, WERE BASED ON COMMUNICATIONS '72 BRIGHTON.  LAST-\nNAMED OCCURRED WHEN TONY DAVIES, PRESIDENT OF PUBLIC RELATIONS FIRM\nREPRESENTING BRITISH TELECOMMUNICATIONS INDUSTRY (ETV CYBERNETIES\nLTD.) ASKED P. GORDON SAVILE (EXHIBITION ORGANIZER) TO ORGANIZE\nTHIS EVENT FOR FIRST TIME.  SUBSEQUENT TO FIRST SHOW, ETV\nTERMINATED SAVILE RELATIONSHIP AND COMMISSIONED D'URBAN, BETA,\nTO RUN COMMUNICATIONS '74 AND '76.  SAVILE'S ATTEMPT TO INSTITUTE\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 02  STATE  242764\n\nTELECOMMUNICATIONS SHOW FOR JUNE 1975 IN BRIGHTON CONSIDERED BY\nSTEVENS TO BE ABORTIVE WITHOUT DAVIES' ENDORSEMENT WHICH\nCONSIDERED INDISPENSABLE TO SUCCESS OF ANY BRITISH-ORGANIZED\nTELECOMMUNICATIONS TYPE EXHIBITION.  UK MANUFACTURERS, POLICE,\nARMED FORCES, AND OTHER END USERS RELY ON DAVIES' ENDORSEMENT FOR\nCREDIBILITY OF TELECOMMUNICATIONS TYPE EXHIBITION WORTHY THEIR\nATTENTION.\n\nSTEVENS BELIEVES SAVILE'S MAVERICK JUNE 1975 SHOW WILL BE SMALL\nWITHOUT DAVIES ENDORSEMENT AND WOULD NOT INTERFERE WITH LTC MAY\nSHOW.  POST'S EVALUATION AND RECOMMENDATIONS REQUESTED SOONEST.\nINGERSOLL\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000017
+                }
+            ]
+        },
+        "11": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "DARIO BAUDER FONTURVEL",
+                            "id": 458862,
+                            "answers": [
+                                {
+                                    "answer_id": 568961,
+                                    "document_id": 979420,
+                                    "question_id": 458862,
+                                    "text": " CONGRESS MEMBERS\nINVOLVED WITH THE TRADE BILL AND FOREIGN RELATIONS",
+                                    "answer_start": 1025,
+                                    "answer_end": 1093,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  CARACA 10930  052005Z\n\n62\nACTION CU-04\n\nINFO  OCT-01  ARA-10  ISO-00  \/015 W\n                       ---------------------     123922\nR 051859Z NOV 74\nFM AMEMBASSY CARACAS\nTO SECSTATE WASHDC 6517\nINFO USIA WASHDC\n\nUNCLAS CARACAS 10930\n\nFOR:  STATE FOR CU\/ARA; USIA FOR ILA\/RODGERS\n\nE.O. 11652:  N\/A\nTAGS:  OEXC VE\nSUBJECT:  VENEZUELAN ECONOMIC STUDY GROUP\n\nREF:  CARACAS 10514\n\nBIO-DATA AND ADDITIONAL PROGRAM SUGGESTIONS FOR SEVENTH AND\nFINAL ECONOMIST SCHEDULED ARRIVE WASHINGTON NOVEMBER 10:\n\n1.  DARIO BAUDER FONTURVEL-DDIRECTOR OF COMMERCIAL POLICY,\nFOREIGN COMMERCE INSTITUTE, BORN CARACAS MARCH 9, 1939; MARRIED\nDEGREES IN ECONOMICS FROM UNIVERSITY OF ROME, 1963.\nGRADUATE DEGREE IN ECONOMICS AND SOCIAL SCIENCES AT UNIVERSITY\nOF STOCKHOLM, 1965.  PREVIOUSLY ADVISER ON PETROLEUM AFFAIRSAT\nMINISTRY OF FINANCE, 1972-4; COUNSELOR ON PETROLEUM AFFAIRS\nAT VENEZUELAN EMBASSY IN US, 1968-71.  ENGLISH GOOD.\nCLEARANCE OBTAINED.  SUBSTITUTED FOR PEDRO ECHEVERRIA.\n\n2.  BAUDER INTERESTED IN MEETING WITH CONGRESS MEMBERS\nINVOLVED WITH THE TRADE BILL AND FOREIGN RELATIONS.\n\n3.  CADAFE ECONOMIST MENDEZ WOULD LIKE TO CONSULT WITH\nCOMMERCE ON JOINT ENERGY PROJECTS, FEA ON INTERNATIONAL\nMARKETING, WORLD BANK AND EX-IM BANK ON URIBANTE\n(IN TACHIRA STATE) AND CAPARO (IN GUAYANA REGION) HYDRO-\nELECTRIC PROJECTS.\n\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  CARACA 10930  052005Z\n\n4.  RESERVE 7 SINGLES, ONE DOUBLE (BAUDER TRAVELING WITH\nSPOUSE).  HOLD RESERVATION FOR ESCORT GRAHAM; ARRIVING LATE\nSUNDAY.  ADVISE NAME HOTEL SOONEST.\nMCCLINTOCK\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000019
+                }
+            ]
+        },
+        "12": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Ms. Ginder's",
+                            "id": 520442,
+                            "answers": [
+                                {
+                                    "answer_id": 579093,
+                                    "document_id": 979422,
+                                    "question_id": 520442,
+                                    "text": "MS. GINDER'S COMPLAINT WAS RECEIVED OCTOBER 1",
+                                    "answer_start": 385,
+                                    "answer_end": 430,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  FRANKF 07179  051507Z\n\n53\nACTION SCSE-00\n\nINFO  OCT-01  ISO-00  H-02  \/003 W\n                       ---------------------     120113\nR 051447Z NOV 74\nFM AMCONSUL FRANKFURT\nTO SECSTATE WASHDC 8471\n\nUNCLAS FRANKFURT 7179\n\nE.O. 11652: N\/A\nTAGS: CGEN\nSUBJ: CONGRESSIONAL CORRESPONDENCE: COMPLAINT TO SENATOR\n      PERCY FROM MS. CAROLE GINDER\n\nREF: STATE 242137\n\n1. MS. GINDER'S COMPLAINT WAS RECEIVED OCTOBER 1 BY\nREFERENCE FROM SENATOR PERCY'S SPRINGFIELD OFFICE VIA\nAMEMBASSY BONN. WE REPLIED DIRECTLY TO THE SENATOR'S\nSPRINGFIELD OFFICE, AS REQUESTED, BY LETTER ON\nOCTOBER 3 WITH A COPY TO DEPARTMENT (H).\n\n2. THE OM OF SEPTEMBER 28 FROM DEPT. (SCS) WAS\nANSWERED OCTOBER 10 BY OM TO DEPT. (SCS) AS REQUESTED.\nOUR OM ENCLOSED ANOTHER COPY OF OCTBER 3 LETTER TO\nSENATOR. HARLAN\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000021
+                }
+            ]
+        },
+        "13": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "MR. CHARLES ENGELHARDT",
+                            "id": 520444,
+                            "answers": [
+                                {
+                                    "answer_id": 579095,
+                                    "document_id": 979424,
+                                    "question_id": 520444,
+                                    "text": "SIKORSKY AIRCRAFT",
+                                    "answer_start": 568,
+                                    "answer_end": 585,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  STATE  243512\n\n15\nORIGIN AF-07\n\nINFO  OCT-01  ISO-00  EB-04  COME-00  RSC-01  \/013 R\n\nDRAFTED BY AF\/I:LTCOL COYKENDALL:PCS\nAPPROVED BY AF\/I:LTCOL COYKENDALL\nAF\/W:JBISHOP\nAF\/E:RBARRETT\n                       ---------------------     000936\nR 052131Z NOV 74\nFM SECSTATE WASHDC\nTO AMEMBASSY ABIDJAN\nAMEMBASSY CONAKRY\nAMEMBASSY ACCRA\nAMEMBASSY LAGOS\nAMEMBASSY ADDIS ABABA\nAMEMBASSY KHARTOUM\n\n\nLIMITED OFFICIAL USE STATE 243512\n\nE.O. 11652: N\/A\nTAGS:  BTRA, XA\nSUBJECT: TRAVEL OF CHARLES  ENGELHARDT, SIKORSKY REP\n\nMR. CHARLES ENGELHARDT OF SIKORSKY AIRCRAFT WILL BE VISITING\nYOUR POSTS DURING THE FOLLOWING DATES.  HE WILL CHECK IN\nWITH EMBASSIES ON ARRIVAL AND ANY ASSISTANCE WOULD BE\nAPPRECIATED.  HOTEL RESERVATIONS HAVE BEEN MADE.\n\nABIDJAN 6 NOV-NOV 8; CONAKRY NOV 8-NOV 11; ACCRA NOV 12-15\nLAGOS NOV 15- NOV 19; ADDIS NOV 20-NOV 22; KHARTOUM NOV 22-\nNOV 26.  INGERSOLL\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000023
+                }
+            ]
+        },
+        "14": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "GOA DEPARTMENT OF TRADE",
+                            "id": 520446,
+                            "answers": [
+                                {
+                                    "answer_id": 579097,
+                                    "document_id": 979426,
+                                    "question_id": 520446,
+                                    "text": "DO NOT BELIEVE OVIMPEX SHOULD POSTPONE LEGAL ACTION",
+                                    "answer_start": 865,
+                                    "answer_end": 916,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  CANBER 07247  050633Z\n\n15\nACTION EA-10\n\nINFO  OCT-01  ISO-00  EB-06  RSC-01  \/018 W\n                       ---------------------     114148\nR 050442Z NOV 74\nFM AMEMBASSY CANBERRA\nTO USDOC WASHDC\nINFO SECSTATE WASHDC 4434\nAMCONSUL MELBOURNE\nAMCONSUL BRISBANE\n\nUNCLAS CANBERRA 7247\n\nE.O. 11652: N\/A\nTAGS: BDIS, AS\nSUBJ: OVIMPEX COMPLAINT\n\nREF: (A) MELBOURNE 1265 (B) USDOC 15892 (C) CANBERRA 6947\n\n1. GOA DEPARTMENT OF TRADE CONFIRMS IT AWARE OF THESE DISPUTES\nTHROUGH ITS NY TRADE COMMISSIONER OFFICE. STATES THERE \"IS\nNOT MUCH WE CAN DO,\" HOWEVER, SINCE BOTH SHIPMENTS HAD PASSED\nRIGOROUS AUSTRALIAN INSPECTION PROCEDURES AT TIME OF SHIPMENT.\n\n2. COMMENT: EMBASSY CONCURS WITH MELBOURNE RECOMMENDATION FOR NO\nFURTHER ACTION PENDING OUTCOME AUSTRALIAN MARINE UNDERWRITERS\nAGENCY MEETING WITH OVIMPEX IN NEW YORK (REF A). HOWEVER, BEYOND\nTHAT, DO NOT BELIEVE OVIMPEX SHOULD POSTPONE LEGAL ACTION\nON BASIS PENDING US-GOA EFFORTS TO OBTAIN AMICABLE SETTLEMENT.\nGOA APPARENTLY MAKING NO FURTHER EFFORTS AND IT MAY BE\nDESIRABLE, SUBJECT TO OVIMPEX WISHES AND ADVICE IT RECEIVING FROM\nLEGAL COUNSEL, TO LET MATTER RUN ITS COURSE IN COURTS.\nGREEN\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000025
+                }
+            ]
+        },
+        "15": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "IRISH SCHOLARSHIP BOARD ",
+                            "id": 520447,
+                            "answers": [
+                                {
+                                    "answer_id": 579098,
+                                    "document_id": 979428,
+                                    "question_id": 520447,
+                                    "text": "IRISH SCHOLARSHIP BOARD RECOMMENDS EXTENSION OF\nO'SULLIVAN'S GRANT THROUGH APRIL, 1975.",
+                                    "answer_start": 311,
+                                    "answer_end": 398,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  DUBLIN 01570  051812Z\n\n62\nACTION CU-04\n\nINFO  OCT-01  EUR-12  ISO-00  \/017 W\n                       ---------------------     122680\nR 051701Z NOV 74\nFM AMEMBASSY DUBLIN\nTO SECSTATE WASHDC 6138\n\nUNCLAS DUBLIN 1570\n\nE.O. 11652: N\/A\nTAGS: OEXC, EI - O'SULLIVAN, JOHN J.\n\nREF: STATE 241533\n\nIRISH SCHOLARSHIP BOARD RECOMMENDS EXTENSION OF\nO'SULLIVAN'S GRANT THROUGH APRIL, 1975.\nMOORE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000027
+                }
+            ]
+        },
+        "16": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": " VON STEUBEN HOTEL",
+                            "id": 520449,
+                            "answers": [
+                                {
+                                    "answer_id": 579100,
+                                    "document_id": 979430,
+                                    "question_id": 520449,
+                                    "text": "08:00 ON 12 NOVEMBER.",
+                                    "answer_start": 1063,
+                                    "answer_end": 1084,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  FRANKF 07161  051018Z\n\n53\nACTION H-03\n\nINFO  OCT-01  EUR-06  ISO-00  SS-07  NSC-06  AID-01  RSC-01  \/025 W\n                       ---------------------     116613\nR 050924Z NOV 74\nFM AMCONSUL FRANKFURT\nTO SECSTATE WASHDC 8467\nINFO AMEMBASSY BONN\nAMEMBASSY MADRID\nUSMISSION USBERLIN\nAMCONSUL STUTTGART\nAMCONSUL STRASBOURG\nAMEMBASSY PARIS\nAMEMBASSY VIENNA\nOSD\/LA\nOSAF\/SAFLL\nDA\/SACLL\nCHIEF LEG AFFAIRS (NAVY)\nCINCUSAFE RAMSTEIN\nUSCINCEUR VAIHINGEN\nCINCUSANVEUR LONDON\nUSCOB BERLIN\n\nUNCLAS FRANKFURT 7161\n\nE.O. 11652: NA\nTAGS: OREP (MANN, JAMES)\nSUBJECT: CODEL MANN\n\nREF: STATE 241557\n\n1. FIRST CLASS BUS ARRANGED WITH REISEBURO GAUF, FRANKFURT\/MAIN.\nBUS INCLUDES WC, AIR CONDITIONING, GALLEY, RECLINING SEATS, RADIO\nAND TAPES. COST WILL BE APPROXIMATELY DM 5000 ($1950.00 AT\nTODAYS EXCHANGE RATE). THIS INCLUDES 1.50 DM PER KM, TOTAL\nDISTANCE IS APPROXIMATELY 2800 KM, PLUS DM60 PER DAY FOR THE\nDRIVER. AN 11 PERCENT VALUE ADDED TAX IS ALSO INCLUDED FOR THE\nPORTION OF THE TRIP IN GERMANY, BUS WILL BE AT THE VON STEUBEN\nHOTEL IN WIESBADEN AT 08:00 ON 12 NOVEMBER.\n\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  FRANKF 07161  051018Z\n\n2. PLEASE ADVISE WHETHER CODEL WILL GET FT FUNDS IN FRANKFURT\nOR ON ARRIVAL IN BERLIN. WE ASSUME GERMAN CURRENCY SHOULD ALSO\nBE ISSUED FOR DAYS TO BE SPENT IN ITALY SINCE CODEL WILL NOT\nBE NEAR FOREIGN SERVICE POST. ALSO, WILL ONE MAN BE AUTHORIZED\nTO RECEIVE FUNDS FOR GROUP?HARLAN\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000029
+                }
+            ]
+        },
+        "17": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "DICHLOROPHENOXYACETIC TECNIC ACID",
+                            "id": 520451,
+                            "answers": [
+                                {
+                                    "answer_id": 579102,
+                                    "document_id": 979432,
+                                    "question_id": 520451,
+                                    "text": " 50 METRIC TONS",
+                                    "answer_start": 804,
+                                    "answer_end": 819,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "How many kilos of TRICHLOROPENOXYACETIC TECNIC BUTYLESTER PACKED IN 250 KILOS DRUMS?",
+                            "id": 521187,
+                            "answers": [
+                                {
+                                    "answer_id": 581781,
+                                    "document_id": 979432,
+                                    "question_id": 521187,
+                                    "text": "100,000 KILOS",
+                                    "answer_start": 1046,
+                                    "answer_end": 1059,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  GUATEM 06067  052305Z\n\n64\nACTION ARA-10\n\nINFO  OCT-01  ISO-00  EB-06  RSC-01  \/018 W\n                       ---------------------     125983\nR 052244Z NOV 74\nFM AMEMBASSY GUATEMALA\nTO USDOC WASHDC\nINFO SECSTATE WASHDC 4907\n\nUNCLAS GUATEMALA 6067\n\nE.O. 11652: N\/A\nTAGS: BEXP, GT\nSUBJECT: PRIVATE TRADE OPPORTUNITY\n\n1. 205\/01\/P0025\n\n2. 110474\n\n3. E. CASTRO\n\n4. 205 GUATEMALA\n\n5. I M\n\n6. A. REPLY TO--\n   B. WALKER VON HOLLEBEN, GENERAL MANGER\n   C. BAYER DE GUATEMALA, LTDA.\n      APARTADO POSTA 1573\n      GUATEMALA CITY, GUATEMALA\n\n7. TEL. 66126 & 66047 CABLE: BAYGUA\n\n8. NAFTONE, INC. INC NEW YORK, N.Y.\n\n9. 101\n\n10. DESCRIPTION\n\n    2879283-0000\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  GUATEM 06067  052305Z\n\n2,4-D DICHLOROPHENOXYACETIC TECNIC ACID PACKED IN\n40 KILOS SACKS. AMOUNT: 50 METRIC TONS. VALUE UNKNOWN.\n2-4-D DICHLOROPHENOXYACEIC TECNIC BUTYLESTER PACKED IN\n250 KILOS DRUMS. AMOUNT: 80 METRIC TONS. VALUE\nUNKNOWN.\n\n    2879284-0000\n2,4,5 TRICHLOROPENOXYACETIC TECNIC BUTYLESTER PACKED\nIN 250 KILOS DRUMS. AMOUNT: 100,000 KILOS. VALUE\nUNKNOWN.\n\nINTERESTED FIRM IS THE LOCAL SUBSIDIARY OF THE GERMAN BAYER\nCORPORATION. THE FIRM ENJOYS IMPORT DUTY EXEMPTIONS UNDER\nTHE GUATEMALAN INDUSTRIAL DEVELOPMENT LAW. THE COMPANY IS\nINTERESTED IN THE PURCHASE OF THE LISTED CHEMICALS TO BE\nUSED IN THE FORMULATION AND MANUFACTURE OF INSECTICIDES AND\nPESTICIDES WHOSE PRODUCTION IS OF 1.3 MILLION LITRES A\nYEAR.\n\nTHE FIRM HAS A GOOD BANK CREDIT RATING AND IS CONSIDERED\nAS A GOOD RISK FOR TRADE TRANSACTIONS. QUOTATIONS CIF\nGUATEMALA PREFERRED. DELIVERY TIME AND PAYMENT CONDITIONS\nAPPRECIATED.\nANDREWS\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000031
+                }
+            ]
+        },
+        "18": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "WALKER VON HOLLEBEN",
+                            "id": 521193,
+                            "answers": [
+                                {
+                                    "answer_id": 581787,
+                                    "document_id": 979434,
+                                    "question_id": 521193,
+                                    "text": "200,000 GALLONS",
+                                    "answer_start": 883,
+                                    "answer_end": 898,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "POTASSIUM CHLORIDE",
+                            "id": 521197,
+                            "answers": [
+                                {
+                                    "answer_id": 581791,
+                                    "document_id": 979434,
+                                    "question_id": 521197,
+                                    "text": "1,000\nKILOS",
+                                    "answer_start": 1372,
+                                    "answer_end": 1383,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "POTASSIUM NITRATE",
+                            "id": 521194,
+                            "answers": [
+                                {
+                                    "answer_id": 581788,
+                                    "document_id": 979434,
+                                    "question_id": 521194,
+                                    "text": "10,000\nKILOS",
+                                    "answer_start": 1056,
+                                    "answer_end": 1068,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "METHYL PARATHION",
+                            "id": 520453,
+                            "answers": [
+                                {
+                                    "answer_id": 579104,
+                                    "document_id": 979434,
+                                    "question_id": 520453,
+                                    "text": "400,000\nKILOS",
+                                    "answer_start": 787,
+                                    "answer_end": 800,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "POTASSIUM SULFATE",
+                            "id": 521195,
+                            "answers": [
+                                {
+                                    "answer_id": 581789,
+                                    "document_id": 979434,
+                                    "question_id": 521195,
+                                    "text": "3,000\nKILOS",
+                                    "answer_start": 1155,
+                                    "answer_end": 1166,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "PHOSPHORIC ACID",
+                            "id": 521196,
+                            "answers": [
+                                {
+                                    "answer_id": 581790,
+                                    "document_id": 979434,
+                                    "question_id": 521196,
+                                    "text": "20,000 POUNDS",
+                                    "answer_start": 1271,
+                                    "answer_end": 1284,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "DI-AMMONIUM PHOSPHATE",
+                            "id": 521198,
+                            "answers": [
+                                {
+                                    "answer_id": 581792,
+                                    "document_id": 979434,
+                                    "question_id": 521198,
+                                    "text": "1,000\nKILOS",
+                                    "answer_start": 1474,
+                                    "answer_end": 1485,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "DIMETHYLAMINE",
+                            "id": 521199,
+                            "answers": [
+                                {
+                                    "answer_id": 581793,
+                                    "document_id": 979434,
+                                    "question_id": 521199,
+                                    "text": "60,000 KILOS",
+                                    "answer_start": 1588,
+                                    "answer_end": 1600,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  GUATEM 06063  052226Z\n\n62\nACTION ARA-10\n\nINFO  OCT-01  ISO-00  EB-06  RSC-01  \/018 W\n                       ---------------------     125548\nR 052130Z NOV 74\nFM AMEMBASSY GUATEMALA\nTO USDOC WASHDC\nINFO SECSTATE WASHDC 4905\n\nUNCLAS GUATEMALA 6063\n\nE.O. 11652: N\/A\nTAGS: BEXP, GT\nSUBJECT: PRIVATE TRADE OPPORTUNITY\n\n1. 205\/01\/P0024\n\n2. 110474\n\n3. E. CASTRO\n\n4. 205 GUATEMALA\n\n5. I M\n\n6. A. REPLY TO --\n   B. WALKER VON HOLLEBEN, GENERAL MANAGER\n   C. BAYER DE GUATEMALA, LTDA.\n      APARTADO POSTAL 1573\n      GUATEMALA CITY, GUATEMALA\n\n7. TEL. 66126 & 66047 CABLE: BAYGUA\n\n8. NAFTONE, INC. NEW YORK, N.Y.\n\n9. 101\n\n10. DESCRIPTION\n\n    2879145-0000\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  GUATEM 06063  052226Z\n\nMETHYL PARATHION PACKED IN 250 KILOS CONTAINERS. AMOUNT: 400,000\nKILOS. VALUE UNKNOWN.\n\n    2869551-0000\nWHITE SPIRIT PACKED IN 55 GALLON DRUMS. AMOUNT: 200,000 GALLONS.\nVALUE UNKNOWN.\nXYLENE PACKED IN 55GALLON DRUMS. AMOUNT: 100,000\nGALLONS. VALUE UNKNOWN.\n\n    2819714-0000\nPOTASSIUM NITRATE PACKED IN 50 KILO SACKS. AMOUNT 10,000\nKILOS. VALUE UNKNOWN.\n\n    2819716-0000\nPOTASSIUM SULFATE PACKED IN 50 KILOS SACKS. AMOUNT: 3,000\nKILOS. VALUE UNKNOWN.\n\n    2874182-0000\nPHOSPHORIC ACID AT 75 PERCENT PACKED IN 700\nPOUND CONTAINERS. AMOUNT: 20,000 POUNDS.\nVALUE UNKNOWN.\n\n    2819717-0000\nPOTASSIUM CHLORIDE PACKED IN 50 KILOS SACKS. AMOUNT: 1,000\nKILOS. VALUE UNKNOWN.\n\n    2874251-0000\nDI-AMMONIUM PHOSPHATE PACKED IN 50 KILOS SACKS. AMOUNT: 1,000\nKILOS. VALUE UNKNOWN.\n\n    3879149-0000\nDIMETHYLAMINE AT 60 PERCENT PACKED IN 170 KILOS CONTAINERS.\nAMOUNT: 60,000 KILOS. VALUE UNKNOWN.\n\nINTERESTED FIRM IS THE LOCAL SUBSIDIARY OF THE GERMAN\nBAYER CORPORATION. THE FIRM ENJOYS IMPORT DUTY EXEMPTIONS\nUNDER THE GUATEMALAN INDUSTRIAL DEVELOPMENT LAW. THE COM-\nPANY IS INTRESTED IN THE PURCHASE OF THE LISTED CHEMICALS\nTO BE USED IN THE FORMULATION AND MANUFACTURE OF INSECTI-\nCIDES AND PESTICIDES WHOSE PRODUCTION IS OF 1.3 MILLION\nLITRES A YEAR.\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 03  GUATEM 06063  052226Z\n\n\nTHE FIRM HAS A GOOD BANK CREDIT RATING AND IS CONSIDERED\nAS A GOOD RISK FOR TRADE TRANSACTIONS. QUOTATIONS CIF\nGUATEMALA PREFERRED. DELIVERY TIME AND PAYMENT CONDITIONS\nAPPRECIATED.\nANDREWS\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000033
+                }
+            ]
+        },
+        "19": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "LOCAL DEALER\/DISTRIBUTOR AND ASSEMBLER OF JAPANESE HINO TRUCKS",
+                            "id": 521211,
+                            "answers": [
+                                {
+                                    "answer_id": 581805,
+                                    "document_id": 979436,
+                                    "question_id": 521211,
+                                    "text": "MARUBENI LIDA CORPORATION OF TOKYO, JAPAN",
+                                    "answer_start": 1110,
+                                    "answer_end": 1151,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "SUZUKI JEEPS AND MOTORCYCLES?",
+                            "id": 521212,
+                            "answers": [
+                                {
+                                    "answer_id": 581806,
+                                    "document_id": 979436,
+                                    "question_id": 521212,
+                                    "text": "MARUBENI LIDA CORPORATION OF TOKYO, JAPAN",
+                                    "answer_start": 1110,
+                                    "answer_end": 1151,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "MARUBENI LIDA CORPORATION",
+                            "id": 521213,
+                            "answers": [
+                                {
+                                    "answer_id": 581807,
+                                    "document_id": 979436,
+                                    "question_id": 521213,
+                                    "text": "ASSEMBLING OF TRUCKS\nAS THE INTERESTED FIRM ASSEMBLES UNITS FOR THE SALE IN THE\nLOCAL MARKET",
+                                    "answer_start": 1260,
+                                    "answer_end": 1352,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Jose R. Pensabene",
+                            "id": 521214,
+                            "answers": [
+                                {
+                                    "answer_id": 581808,
+                                    "document_id": 979436,
+                                    "question_id": 521214,
+                                    "text": "150 UNITS",
+                                    "answer_start": 967,
+                                    "answer_end": 976,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Jose R. Pensabene",
+                            "id": 520901,
+                            "answers": [
+                                {
+                                    "answer_id": 580658,
+                                    "document_id": 979436,
+                                    "question_id": 520901,
+                                    "text": " 150 UNITS",
+                                    "answer_start": 810,
+                                    "answer_end": 820,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  GUATEM 06061  052202Z\n\n67\nACTION ARA-10\n\nINFO  OCT-01  ISO-00  EB-06  RSC-01  \/018 W\n                       ---------------------     125165\nR 052126Z NOV 74\nFM AMEMBASSY GUATEMALA\nTO USDOC WASHDC\nINFO SECSTATE WASHDC 4903\n\nUNCLAS GUATEMALA 6061\n\nE.O. 11652: N\/A\nTAGS: BEXP, GT\nSUBJECT: PRIVATE TRADE OPPORTUNITY\n\n1. 205\/01\/P0027\n\n2. 110574\n\n3. E. CASTRO\n\n4. 205 GUATEMALA\n\n5. I M\n\n6. REPLY TO --\n   B. JOSE R. PENSABENE, SALES MANAGER\n   C. MOTORES HINO DE GUATEMALA, S.A.\n      7A. AVENIDA 12-72, ZONA 9\n      GUATEMALA CITY, GUATEMALA\n\n7. TEL. 62442 AND 67818\n\n8. --\n\n9. 101\n\n10. DESCRIPTION\n    3714198-0000\nSTANDARD ADDITIONAL TRUCK DEAD AXLES HYDROPNEUMATIC SUSPENSION\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  GUATEM 06061  052202Z\n\nWITH A CAPACITY UP T 22,000 POUNDS. QUANTITY NEEDED: 150 UNITS.\nVALUE UNKNOWN. ALSO STANDARD ADDITIONAL TRUCK DEAD AXLES MENH-\nANIC OR SPLINTER SUSPENSION WITH A CAPACITY UP TO 22,000 POUNDS.\nQUANTITY NEEDED: 150 UNITS. VALUE UNKNOWN.\n\nINTERESTED FIRM IS THE LOCAL DEALER\/DISTRIBUTOR AND ASSEMBLER\nOF JAPANESE HINO TRUCKS. THE COMPANY IS CONTROLLED BY\nMARUBENI LIDA CORPORATION OF TOKYO, JAPAN. THE FIRM ALSO\nREPRESENTS AND DISTRIBUTES SUZUKI JEEPS AND MOTORCYCLES.\nDESIRED EQUIPMENT IS NEEDED FOR THE ASSEMBLING OF TRUCKS\nAS THE INTERESTED FIRM ASSEMBLES UNITS FOR THE SALE IN THE\nLOCAL MARKET. PRICES, DELIVERY TIME AND PAYMENT CONDITIONS\nAPPRECIATED. QUOTATIONS CIF GUATEMALA PREFERRED.\nANDREWS\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000035
+                }
+            ]
+        },
+        "20": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "BS 1 1",
+                            "id": 520908,
+                            "answers": [
+                                {
+                                    "answer_id": 580665,
+                                    "document_id": 979440,
+                                    "question_id": 520908,
+                                    "text": "140,600,000 FRANCS",
+                                    "answer_start": 1272,
+                                    "answer_end": 1290,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  GENEVA 06731  051631Z\n\n53\nACTION IO-10\n\nINFO  OCT-01  ISO-00  IOE-00  L-02  ABF-01  OMB-01  TRSE-00  AF-10\n\n      ARA-10  EA-10  EUR-12  NEA-10  RSC-01  SS-15  NSC-05\n\n      CIAE-00  COME-00  EB-06  INR-07  LAB-03  NSAE-00  SIL-01\n\n      \/105 W\n                       ---------------------     121360\nP 051558Z NOV 74\nFM USMISSION GENEVA\nTO SECSTATE WASHDC PRIORITY 9031\n\nUNCLAS GENEVA 6731\n\nPASS IO\/UNBAPS\n\nE.O. 11652: N\/A\nTAGS: ILO AORG\nSUBJECT: ILO: 194TH GOVERNING BODY: REQUEST FOR INSTRUCTIONS ON\nFINANCIAL QUESTIONS\n\n1. TWO PAPERS FOR BUILDING SUBCOMMITTEE HAVING FINANCIAL IMPLICATIONS\nWERE SPRUNG ON DELEGATES ON ARRIVAL IN GENEVA. PAPERS ARE NUMBERED\nGB.194\/PFA\/BS\/1\/1: NEW HEADQUARTERS BUILDING: PROGRESS REPORT AND\nFINANCIAL STATUS OF THE PROJECT--PROGRESS REPORT, AND GB.194\/PFA\/\nBS\/1\/2: NEW HEADQUARTERS,ETC.--LOAN ANNUITY AND ARRANGEMENTS FOR\nFINANCING THE EXPECTED COST OVERRUN ON THE BUILDING. BOTH DATED\nOCTOBER 25 AND MAY HAVE BEEN RECEIVED IN IO\/LABW BY THIS TIME.\n\n2. BS\/1\/1 STATES THAT TOTAL COST OF NEW BUILDING HAS RISEN FROM\nAPRIL 30, 1974, ESTIMATE OF SWISS FRANCS 137,751,290 TO SEPTEMBER 30,\n1974, ESTIMATE OF 143,520,000 FRANCS. TOTAL AVAILABLE RESOURCES,\nINCLUDING PROCEEDS FROM SALE OF PETIT SACONNEX ANNEX, AMOUNT TO\n140,600,000 FRANCS.\n\n3. PAPER BS\/1\/2 STATES THAT FUNDS PRESENTLY ALLOCATED IN 1974-75\nBUDGET FOR BUILDING WILL NOT RPT NOT BE SUFFICIENT FOR PAYING\nCONTRACTORS BILLS FALLING DUE IN 1975. SOME OF THESE BILLS\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  GENEVA 06731  051631Z\n\nWILL BE FOR EXTRA WORK CONTRACTED FOR SO THAT MOVE INTO NEW\nBUILDING CAN BE SUFFICIENTLY ACCOMPLISHED TO ENABLE GOVERNING\nBODY TO MEET THERE IN FEBRUARY 1975. THERE ARE ALSO SOME THREE\nMILLION FRANCS IN BILLS THAT OFFICE IS PROTESTING AND THAT\nPOSSIBLY WILL GO TO ARBITRATION. OFFICE MUST BE PREPARED FOR\nDECISION AWARDING PART OR ALL OF CONTESTED OVERRUNS TO CONTRACTORS.\n\n4. TO PROVIDE CASH NEEDED FOR PAYMENT OF 1975 BILLS, AND TO\nPROVIDE READILY ACCESSIBLE FUNDS FOR FUTURE ALTERATIONS, REPAIS,\nAND MAINTENANCE, DIRECTOR GENERAL PROPOSES FOLLOWING MEASURES;\n  A. ANNUAL PAYMENTS OF THE 40 YEAR FIPOI MORTAGE ARE SET AT\n5,652,400 FRANCS. FIPOI INFORMALLY AGREES TO ACCEPT THE FIRST\nPAYMENY (1975) AN AMOUNT OF THREE MILLION FRANCS, WITH REMAINING\n2,652,400 BEING SPREAD EQUALLY OVER REMAINING THIRTY-NINE PAY-\nMENTS. DIRECTOR GENERAL PROPOSES TO TRANSFER THE 2,652,400 FRANCS,\nALREADY PROVIDED IN 1975-75 BUDGET, TO BUILDING AND ACCOMMODATION\nFUND.\n  B. NET RECEIPTS FROM RENTALS IN FUTURE WILL BE PAID TO\nBUILDING AND ACCOMMODATION FUND. SOURCES WILL BE RENT FROM\nCONCESSIONAIRS (BANK,BOOK, STALL, TRAVEL AGENCY, FOOD SERVICES)\nAND OTHER AGENCIES RENTING OFFICE SPACE IN NEW BUILDING. (THERE\nIS NO RPT NO DECISION YET ON PRINCIPLE OF PARKING FEE, OR WHERE\nMONEY WOULD GO IF FEE CHARGED.)\n  C. PROGRAM, FINANCIAL AND ADMINISTRATIVE COMMITTEE (PFA) WILL\nBE ASKED (SEE DOCUMENT GB. 194\/PFA\/13\/19, PARAS 7 AND 12) TO\nAUTHORIZE DIRECTOR GENERAL TO DRAW ON BUILDING AND ACCOMMODATION\nFUND TO MEET SUCH EXPENDITURES AS MAY BE NECESSARY ABOVE THE\n140,600,000 FRANCS CURRENTLY AVAILABLE. ACCORDING TO JOHN\nRICHES, ILO BUILDING COORDINATOR, THESE ARRANGEMENTS WOULD BE USED\nTO MAKE PAYMENTS TO CONTRACTORS IN 1975, AND TO ENABLE DIRECTOR\nGENERAL TO CARRY OUT FUTURE ALTERNATIONS, REPAIRS AND MAINTENCE.\n\n5. USDEL AND SOVDEL PROTESTED LATE PRESENTATION OF DOCUMENTS,\nAND STATED THEY WERE UNABLE TO TAKE ANY POSITION ON DIRECTOR\nGENERAL'S REQUESTS UNTIL THEY HAD INSTURCTIONS, WHICH THEY WOULD\nSEEK ASAP. CHAIRMAN (MORGAN, UK) AGREED THAT SUBCOMMITTEE COULD\nBE RECONVENED WHEN USDEL AND SOVDEL HAVE INSTRUCTIONS. PRESUME\nTHIS WILL HAVE TO BE BY MONDAY, NOV 11 AT LATES, SINCE PLENARY\nSESSIONS START NOV 12.\n\n6. USDEL SEES SOME MERIT IN SUPPORTING ALL PROPOSALS, SINCE\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 03  GENEVA 06731  051631Z\n\nTHEY WOULD HAVE EFFECT OF REDUCING CLAIRMS OF NEW BUILDING\nAGAINST ASSESSMENT BUDGET, WHICH ARE GOING TO BE EMBARRASSINGLY\nLARGE AT BEST. ALSO, IN CASE OF GENUINE EMERGENCY, PROPOSED\nARRANGEMENTS WOULD GIVE DIRECTOR GENERAL MAXIMUM FLEXIBILITY\nIN ACTING EXPEDITIOUSLY TO CONTRACT FOR REPAIRS. USDEL NOT\nINCLINED RECOMMEND SUPPORT, HOWEVER FOR FOLLOWING REASONS:\n  A. WITH PROPOSAL TO DIVERT ONE-HALF OF NET RECEIPTS FROM\nPUBLICATION SALES AWAY FROM WORKING CAPITAL FUND (WCF), WHICH\nPROBABLY WILL BE APPROVED, PROPOSED DIVERSION OF RENTALS THAT\nWOULD OTHERWISE GO TO WCF, COULD RESULT IN LOWING OF WCF\nTO POINT OF REQUIRING A REPLENISHMENT ASSESSMENT ON ILO MEMBERS.\n  B. DIRECTOR GENERAL WILL ACQUIRE SUBSTANTIAL SUMS (RENTAL\nRECEIPTS ESTIMATED AT 490,000 FRANCS A YEAR) WHICH HE CAN USE\nWITHOUT GOVERNING BODY APPROVAL.\n\n7 . USDEL REQUESTS INSTRUCTIONS ONFOLLOWING POINTS:\nA. PRPOSAL TO DIVERT 2,652,400 FRANCS FROM FIRST (1975)\nMORTAGE PAYMENT INTO BUILDING AND ACCOMMODATION FUND, FOR\nPURPOSE OF PAYING 1975 BUILDING BILLS.\n  B. PROPOSAL TO ADD 2,652,400 FRANCS TO THE 39 MORTAGE PAYMENTS\nSTARTING 1976 (WITH CONSEQUENT INCREASE IN TOTAL INTEREST\nPAYMENTS OVER LIFE OF LOAN AT 3 1\/2 PERCENT).\n  C. PROPOSAL THAT FUTURE RETNTALS BE PAID INTO BUILDING AND\nACCOMMODATION FUND, INSTEAD OF INTO WCF.\n  D. PROPOSAL TO GIVE DIRECTOR GENERAL AUTHORITY TO USE\nBUILDING AND ACCOMMODATIN FUND FOR PAYMENT OF COSTS OF\nINTIAL CONSTRUCTION AND FOR FUTURE ALTERATIONS, REPAIRS, AND\nMAINTENANCE, ON BASIS OF REPORTING TO GOVERNING BODY AFTER THE\nFACT, RATHER THAN SEEKING PERMISSION FROM GOVERNING BODY IN\nADVANCE.DALE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000039
+                }
+            ]
+        },
+        "21": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "USMISSION GENEVA",
+                            "id": 520910,
+                            "answers": [
+                                {
+                                    "answer_id": 580667,
+                                    "document_id": 979442,
+                                    "question_id": 520910,
+                                    "text": "MTN",
+                                    "answer_start": 484,
+                                    "answer_end": 487,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  GENEVA 06727  051453Z\n\n44\nACTION OIC-02\n\nINFO  OCT-01  ISO-00  \/003 W\n                       ---------------------     119893\nR 051445Z NOV 74\nFM USMISSION GENEVA\nTO SECSTATE WASHDC 9027\n\nUNCLAS GENEVA 6727\n\nE.O. 11652: N\/A\nTAGS: OCON AFIN\nSUBJ: MTN-REPRESENTATION FUNDS FY-1975.\n\n1. MISSION HOLDING REPRESENTATION CLAIM FROM\nAMB. MALMGREN FOR DOLS 84.15 PENDING\nALLOCATION OF FUNDS TO MTN GENEVA.\n\n2. IN ACCORDANCE REFERENCED MESSAGES, PLEASE\nPROVIDE $500 FOR MTN USE THIS FY. DALE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000041
+                }
+            ]
+        },
+        "22": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "SECSTATE WASHDC TO AMEMBASSY KINSHASAWE",
+                            "id": 520912,
+                            "answers": [
+                                {
+                                    "answer_id": 580669,
+                                    "document_id": 979444,
+                                    "question_id": 520912,
+                                    "text": "EFFECTIVE JOINT USG AND U.S. INDUSTRY ACTION TO WIN\nMAJOR CONTRACTS.",
+                                    "answer_start": 634,
+                                    "answer_end": 702,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  STATE  242735\n\n12\nORIGIN COME-00\n\nINFO  OCT-01  AF-04  ISO-00  EB-04  RSC-01  \/010 R\n\n66612\nDRAFTED BY:COM\/BIC\/OED\/MEPD:TJASPER\nAPPROVED BY:EB\/OCA\/REP:GPWILSON\nCOM\/BIC\/OED\/MEPD:MWELLS, DEP.DIR.  AF\/C:RSTRAND (PHONE)\nCOM\/BIC\/OED\/MEPD:CATKINS\n                       ---------------------     112291\nR 050033Z NOV 74\nFM SECSTATE WASHDC\nTO AMEMBASSY KINSHASA\n\n\nLIMITED OFFICIAL USE STATE 242735\n\nE.O. 11652:  N\/A\nTAGS:  BEXP, CG\nSUBJECT:  GECAMINES EXPANSION PROGRAM\n\nREF:  KINSHASA 9061\n\n1.  WE COMMEND EMBASSY EFFORT ON BEHALF OF PARSONS-JURDEN\nCOMPANY AND BELIEVE THIS REPRESENTS AN EXCELLENT EXAMPLE\nOF EFFECTIVE JOINT USG AND U.S. INDUSTRY ACTION TO WIN\nMAJOR CONTRACTS.\n\n2.  AT THIS TIME IT IS NOT NECESSARY TO MAKE SIMILAR\nAPPOINTMENT WITH BISENGIMANA FOR ARTHUR MCKEE\/KAISER\nENGINEERING JOINT VENTURE.  INGERSOLL\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000043
+                }
+            ]
+        },
+        "23": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "SECSTATE WASHDC TO AMEMBASSY KINSHASA",
+                            "id": 520914,
+                            "answers": [
+                                {
+                                    "answer_id": 580671,
+                                    "document_id": 979446,
+                                    "question_id": 520914,
+                                    "text": "ROCKEFELLER FAMILY REPRESENTATIVE",
+                                    "answer_start": 486,
+                                    "answer_end": 519,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  STATE  242881\n\n17\nORIGIN L-02\n\nINFO  OCT-01  AF-04  ISO-00  FBO-02  A-01  RSC-01  \/011 R\n\nDRAFTED BY L\/AF:BKHUFFMAN:MMP\nAPPROVED BY L\/AF:BKHUFFMAN\nAF\/C:RRSTRAND\n                       ---------------------     113666\nR 050127Z NOV 74\nFM SECSTATE WASHDC\nTO AMEMBASSY KINSHASA\n\n\nLIMITED OFFICIAL USE STATE 242881\n\nE.O. 11652:  N\/A\nTAGS:  CGEN, CPRS\nSUBJECT:  STATUS OF KINSHASA YWCA\/YMCA PROPERTY\n\nREF:  (A) STATE 111004\n(B) STATE 147231\n(C) KINSHASA 6661\n\nROCKEFELLER FAMILY REPRESENTATIVE MET WITH DEPTOFFS NOV. 1\nTO INQUIRE ONCE AGAIN ABOUT STATUS OF KINSHASA YWCA\/YMCA\nFACILITY.  WE WOULD LIKE TO PROVIDE FINAL ANSWER TO THIS\nINQUIRY AS SOON AS POSSIBLE SINCE IT HAS BEEN PENDING\nSINCE MAY 28, 1974.   INGERSOLL\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000045
+                }
+            ]
+        },
+        "24": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "BOLIVIAN FOREIGN MINISTER GUZMAN",
+                            "id": 520913,
+                            "answers": [
+                                {
+                                    "answer_id": 580670,
+                                    "document_id": 979445,
+                                    "question_id": 520913,
+                                    "text": "ESTABLISH\nCLOSE WORKING RELATIONS WITH USDEL",
+                                    "answer_start": 621,
+                                    "answer_end": 665,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  LA PAZ 07174  052033Z\n\n50\nACTION ARA-10\n\nINFO  OCT-01  ISO-00  IO-04  CIAE-00  DODE-00  PM-03  H-01  INR-05\n\n      L-01  NSAE-00  NSC-05  PA-01  RSC-01  PRS-01  SP-02  SS-15\n\n      USIA-06  SAM-01  OIC-02  \/059 W\n                       ---------------------     124240\nP 051930Z NOV 74\nFM AMEMBASSY LA PAZ\nTO SECSTATE WASHDC PRIORITY 4695\nINFO AMEMBASSY QUITO\n\n\nLIMITED OFFICIAL USE LA PAZ 7174\n\nE.O. 11652: N\/A\nTAGS: OCON OAS BL\nSUBJ: QUITO MFM\n\nQUITO FOR U.S. DELEGATION TO QUITO MFM\n\n1. BOLIVIAN FOREIGN MINISTER GUZMAN HAS EXPRESSED TO ME\nTHROUGH HIS SUB-SECRETARY OSTRIA THE DESIRE TO ESTABLISH\nCLOSE WORKING RELATIONS WITH USDEL AS QUICKLY AS POSSIBLE\nAFTER ARRIVAL OF DELEGATIONS IN QUITO. OSTRIA REPEATED THAT\nGOB POSITION STILL NOT FIRMED UP AND IN LIGHT OF MY PREVIOUS\nINFORMATION TO HIM THAT USG POSITION NOT YET TAKEN, GOB\nWISHES HAVE CLOSE CONSULTATIONS WITH SENIOR MEMBERS USDEL.\n\n2. I ASSURED OSTRIA THAT USDEL WOULD BE INTERESTED IN\nESTABLISHING CLOSE RELATIONS WITH GOB DELEGATION AND THAT I\nWOULD SEND THIS CABLE PROMPTLY TO WASHINGTON TO ALERT MEMBERS\nDELEGATION TO THE BOLIVIAN DESIRE. HE INDICATED IT WOULD BE\nVERY MUCH APPRECIATED IF MEMBER USDEL MIGHT ARRANGE GET\nTOGETHER AT CONVENIENCE USDEL EARLY ON.\n\n3. FOREIGN MINISTER GUZMAN DEPARTING LA PAZ WEDNESDAY\/\nNOV. 6 EVENING AND WILL OVERNIGHT IN LIMA. HE WILL ARRIVE\nQUITO ON THURSDAY, NOV. 7.\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 02  LA PAZ 07174  052033Z\n\nSTEDMAN\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000044
+                }
+            ]
+        },
+        "25": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "AMEMBASSY COTONOU TO AMEMBASSY NIAMEY PRIORITY",
+                            "id": 520915,
+                            "answers": [
+                                {
+                                    "answer_id": 580672,
+                                    "document_id": 979447,
+                                    "question_id": 520915,
+                                    "text": "PROCEED WITH ARRANGMENTS FOR DAP TEAM VISIT NEXT\nWEEK",
+                                    "answer_start": 444,
+                                    "answer_end": 497,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "INTERMINISTERIAL WORKING GROUP",
+                            "id": 521218,
+                            "answers": [
+                                {
+                                    "answer_id": 581812,
+                                    "document_id": 979447,
+                                    "question_id": 521218,
+                                    "text": "NOV 13 OR NOV 15",
+                                    "answer_start": 1198,
+                                    "answer_end": 1214,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  COTONO 01700  051524Z\n\n44\nACTION AID-05\n\nINFO  OCT-01  AF-10  ISO-00  RSC-01  \/017 W\n                       ---------------------     120361\nP R 051510Z NOV 74\nFM AMEMBASSY COTONOU\nTO AMEMBASSY NIAMEY PRIORITY\nINFO SECSTATE WASHDC 6677\n\nUNCLAS COTONOU 1700\n\nEO 11652: N\/A\nTAGS: EAID, DM\nSUBJ: DAP TEAM SCHEDULING\n\nFOR DAP TEAM LEADER\n\nREF STATE 228909\n\n1. AFTER MORISS TDY VISIT OCT 31-NOV 4 COTONOU, EMBASSY HAS\nDECIDED PROCEED WITH ARRANGMENTS FOR DAP TEAM VISIT NEXT\nWEEK. HOWEVER, MORRIS SUGGESTED CLEARING PROPOSED APPOIINT-\nMENT WITH DAP TEAM MEMBERS BEFORE THEY ARE ACTUALLY MADE.\nTHEREFORE, WE WILL ATTEMPT MAKE FOLLOWING APPOINTMENTS\nUNLESS OTHERWISE INSTRUCTED BY COB WEDNESDAY 6 NOV.\n\nMINHEALTH: DIR OF CABINET, ONCHOCERCIASIS COMMITTEE CHAIRMAN,\nDIR OF PLANNING, OCCGE REP.\n\nMIN AGRICULTURE: DIR OF CABINET, DIR OF AGRICULTURE AND DIR\nOF RURAL ACTION\n\nMIN EDUCATION; DIRECTOR OF CABINET AND DIRECTOR OF PLANNING\n\nUNDP: RESREP WFP, PROJECT DIRECTORS FOR FURAL AGRICULTURAL\nEDUCATION, YOUTH CLUBS AND ANIMAL TRACTION.\n\nCRS: DIRECTOR\n\nFED: DELEGATE\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  COTONO 01700  051524Z\n\n\n2. MINFORN AFFAIRS HAS ALSO REQUESTED MEETING ON EITHER\nNOV 13 OR NOV 15 WITH DAP TEAM FOR \"INTER-MINISTERIAL WORKING-\nGROUP\" COMPOSED OF MEMBERS FROM \"MINISTRIES CONCERNED\" BY\nTEAM VISIT. WE HAD MENTIONED IN NOTE TO MINISTRY TEAM INTER-\nESTED IN AGRICULTURE, LIVESTOCK, HEALTH, NUTRITION AND HUMAN\nRESOURCES.\n\n3. HAVE RESERVED, ON BASIS MORRIS ESTIMATIONS OF SIZE SUB-\nTEAM COMING COTONOU, 4 HOTEL ROOMS FOR TEAM PLUS ONE FOR\nPURCELL NIGHTS OF NOV 12-15. PLEASE ADVISE IF THIS SUFFICIENT.\nHAVE NOT RPT NOT YET RESERVED ANY RENTED CARS WHICH COULD\nEASILY BE OBTAINED ON A DAILY BASIS.\nENGLE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000046
+                }
+            ]
+        },
+        "26": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "AMEMBASSY DACCA TO SECSTATE WASHDC 4799",
+                            "id": 520917,
+                            "answers": [
+                                {
+                                    "answer_id": 580674,
+                                    "document_id": 979449,
+                                    "question_id": 520917,
+                                    "text": "5 HD FORM DSP-66 (CERTIFICATE OF ELIGIBILITY\nFOR EXCHANGE VISITOR STATUS",
+                                    "answer_start": 359,
+                                    "answer_end": 431,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  DACCA 05063  050656Z\n\n17\nACTION ST-01\n\nINFO  OCT-01  NEA-10  ISO-00  CU-04  \/016 W\n                       ---------------------     114399\nR 050500Z NOV 74\nFM AMEMBASSY DACCA\nTO SECSTATE WASHDC 4799\n\nUNCLAS DACCA 5063\n\nFOR WARSC\n\nE.O. 11652: N\/A\nTAGS      : ASUP  BG\nSUBJECT   : RDBL - FORMS\n\nREF       : STATE 163113\n\nPLEASE AIR POUCH 5 HD FORM DSP-66 (CERTIFICATE OF ELIGIBILITY\nFOR EXCHANGE VISITOR STATUS).\nBOSTER\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000048
+                }
+            ]
+        },
+        "27": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "CONGRESSMAN KETCHUM'S",
+                            "id": 520919,
+                            "answers": [
+                                {
+                                    "answer_id": 580676,
+                                    "document_id": 979451,
+                                    "question_id": 520919,
+                                    "text": " THE EMBASSY USES\nONLY FRENCH WINES AT ITS FUNCTIONS",
+                                    "answer_start": 587,
+                                    "answer_end": 639,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  COPENH 03113  051411Z\n\n53\nACTION SS-15\n\nINFO  OCT-01  EUR-12  ISO-00  H-02  RSC-01  \/031 W\n                       ---------------------     119254\nR 051140Z NOV 74\nFM AMEMBASSY COPENHAGEN\nTO SECSTATE WASHDC 9955\n\nUNCLAS COPENHAGEN 3113\n\nFOR THE SECRETARY\n\nE.O. 11652: N\/A\nTAGS: OGEN, BEXP, DA\nSUBJECT: REPRESENTATIVE KETCHUM'S LETTERS TO PRESIDENT AND SECRETARY\nOF STATE ON USE OF AMERICAN WINES AT U.S. EMBASSIES\n\nREF: SPRINGSTEEN MEMO TO LTGEN SCOWCROFT\n\n1. I AM SHOCKED TO READ CONGRESSMAN KETCHUM'S LETTERS TO THE\nPRESIDENT AND TO THE SECRETARY SUGGESTING THAT THE EMBASSY USES\nONLY FRENCH WINES AT ITS FUNCTIONS.  THIS MATTER HAS BEEN\nTHOROUGHLY INVESTIGATED AND I AM SATISFIED THAT NO ONE IN\nTHIS MISSION EVER TALKED TO A REPRESENTATIVE OF BEAR MOUNTAIN\nOR MADE ANY SUCH OUTLANDISH STATEMENT.  I DEPLORE BEAR MOUN-\nTAIN'S ACCUSATION TO ITS CONGRESSIONAL REPRESENTATIVE ON THE\nBASIS OF SUCH FABRICATED EVIDENCE.\n\n2. SUBSTANTIAL AMOUNTS OF WINE AND CHAMPAGNE SOLD IN OUR\nEMBASSY COMMISSARY ARE OF U.S. ORIGIN.  NOT ONLY I, BUT ALSO\nMY OFFICERS, REGULARLY SERVE CALIFORNIA TABLE WINES.\n\n3. I FEEL STRONGLY THAT THIS MATTER SHOULD BE BROUGHT TO\nTHE ATTENTION OF CONGRESSMAN KETCHUM AND THAT IN THE FUTURE\nACCUSATIONS SUCH AS THIS SHOULD BE SUPPORTED BY EVIDENCE.\nCROWE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000050
+                }
+            ]
+        },
+        "28": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "OF DEPARTMENT'S AND FOREIGN SERVICE'S DISCHARGE OF RESPONSIBILITIES",
+                            "id": 520922,
+                            "answers": [
+                                {
+                                    "answer_id": 580681,
+                                    "document_id": 979453,
+                                    "question_id": 520922,
+                                    "text": " SENATE AND HOUSE COMMITTEES",
+                                    "answer_start": 522,
+                                    "answer_end": 550,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "SPECIFIC CRISIS GAO?",
+                            "id": 521219,
+                            "answers": [
+                                {
+                                    "answer_id": 581813,
+                                    "document_id": 979453,
+                                    "question_id": 521219,
+                                    "text": "SEPTEMBER\n1973 CHILE COUP",
+                                    "answer_start": 845,
+                                    "answer_end": 870,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "SANTIAGO",
+                            "id": 521220,
+                            "answers": [
+                                {
+                                    "answer_id": 581814,
+                                    "document_id": 979453,
+                                    "question_id": 521220,
+                                    "text": "TWO WEEKS BEGINNING\nLATE NOVEMBER",
+                                    "answer_start": 966,
+                                    "answer_end": 999,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Santiago?",
+                            "id": 521221,
+                            "answers": [
+                                {
+                                    "answer_id": 581815,
+                                    "document_id": 979453,
+                                    "question_id": 521221,
+                                    "text": "INTERVIEW SAMPLE OF\nAMERICANS WHO WITNESSED OR WERE PERSONALLY AFFECTED BY GOC\nACTIONS AND EMBASSY'S RESPONSES DURING THAT \"CRISIS\"",
+                                    "answer_start": 1021,
+                                    "answer_end": 1152,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "embassy",
+                            "id": 521222,
+                            "answers": [
+                                {
+                                    "answer_id": 581816,
+                                    "document_id": 979453,
+                                    "question_id": 521222,
+                                    "text": "EMBASSY SHOULD ORGANIZE\nITS OFFICIAL AND ANY UNOFFICIAL FILES\/RECORDS FOR REVIEW BY\nGAO TEAM.",
+                                    "answer_start": 1273,
+                                    "answer_end": 1366,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  STATE  243332\n\n43\nORIGIN SCS-03\n\nINFO  OCT-01  ABF-01  ARA-06  ISO-00  OPR-01  \/012 R\n\nDRAFTED BY SCA:SCS:WPCHASE:JFM\nAPPROVED BY SCA:SCS:WPCHASE\nA\/BF\/OAG\/DQUAID\nARA\/LA\/BC:AISAACS\n                       ---------------------     122942\nO 051820Z NOV 74 ZFF4\nFM SECSTATE WASHDC\nTO AMEMBASSY SANTIAGO IMMEDIATE\n\n\nLIMITED OFFICIAL USE STATE 243332\n\nE.O. 11652: N\/A\nTAGS:  CASC:\nSUBJECT:  GENERAL ACCOUNTING OFFICE - REVIEW OF CONSULAR\nPROTECTION OF US CITIZENS DURING CRISIS.\n\n1.  AT REQUEST OF SENATE AND HOUSE COMMITTEES, GENERAL\nACCOUNTING OFFICE HAS INITIATED REVIEW OF DEPARTMENT'S AND\nFOREIGN SERVICE'S DISCHARGE OF RESPONSIBILITIES TO EXTEND\nCONSULAR PROTECTION TO US CITIZENS ABROAD DURING PERIODS OF\nCRISES.  ONE SPECIFIC \"CRISIS\" OF GAO INTEREST IS CONSULAR\nPROTECTION EXTENDED TO CITIZENS DURING PERIOD OF SEPTEMBER\n1973 CHILE COUP.\n\n2.  GAO TEAM HAS BEGUN REVIEW OF PERTINENT DEPARTMENTAL\nRECORDS AND PLANS VISIT SANTIAGO FOR TWO WEEKS BEGINNING\nLATE NOVEMBER.  TEAM ALSO WANTS TO INTERVIEW SAMPLE OF\nAMERICANS WHO WITNESSED OR WERE PERSONALLY AFFECTED BY GOC\nACTIONS AND EMBASSY'S RESPONSES DURING THAT \"CRISIS\".  AS\nAPPROPRIATE, SOME INTERVIEWS WILL OCCUR IN CHILE AND OTHERS\nIN US OR ELSEWHERE.\n\n3.  IN PREPARATION FOR GAO VISIT, EMBASSY SHOULD ORGANIZE\nITS OFFICIAL AND ANY UNOFFICIAL FILES\/RECORDS FOR REVIEW BY\nGAO TEAM.  PLEASE ADVISE IF ANY RECORDS HAVE BEEN RETIRED\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 02  STATE  243332\n\nTO US, DESTROYED OR OTHERWISE WILL NOT BE AVAILABLE.\n\n4.  FOR GAO'S USE NOW BEFORE VISIT AND SUBSEQUENTLY IN\nCHILE, EMBASSY REQUESTED COMPLETE FOLLOWING LISTS OF\n\nNAMES.  INCLUDE BEST CURRENT ADDRESS OR WHEREABOUTS OF ANY\nPERSON WHO WILL NOT BE IN CHILE AT TIME OF VISIT.  AS\nPERTINENT, ADD IDENTIFYING BACKGROUND INFORMATION:\n(A) NAMES OF MISSION AMERICAN PERSONNEL WHO PARTICIPATED\nIN CONSULAR PROTECTION AND RELATED ACTIVITIES DURING\nCOUP PERIOD AND INDICATE SCOPE OF RESPONSIBILITIES.\n(B) NAMES OF FSL EMPLOYEES WHO ASSISTED IN PROTECTION\nWORK.  (C) NAMES OF NON-EMBASSY EMPLOYEES WHO MAY HAVE\nSERVED AS VOLUNTEERS IN EMBASSY ASSISTING IN CONSULAR\nPROTECTION, SUCH AS BY INTERVIEWING AMERICANS SEEKING\nHELP.  (D)  NAMES OF AMERICANS HELD IN NATIONAL STADIUM.\n(E)  NAMES OF OTHER AMERICANS WHO ARE KNOWN TO HAVE\nBEEN DETAINED BY CHILEAN AUTHORITIES AT SOMETIME DURING\nCOUP.  (F)  NAMES OF AMERICANS WHO ASKED EMBASSY FOR\nPROTECTION DURING COUP.  (G)  NAMES OF ANY AMERICAN WHO\nOBTAINED OR SOUGHT ASSYLUM OR REFUGE IN FOREIGN EMBASSIES\nOR US EMBASSY.\n\n5.  DEPARTMENT APPRECIATES COMPLETION ABOVE LISTS MAY BE\nDIFFICULT.  IF ANY LISTS TOO VOLUMINOUS FOR NORMAL\nTELEGRAPHIC TRANSMISSION, STATE NUMBER OF PERSONS AFFECTED\nAND PROVIDE SAMPLE NAMES OF PERSONS NOW BELIEVED TO BE IN\nUS.  AS THIS INFORMATION DESIRED SOONEST, LISTS CAN BE\nSENT IN SEPARATE TELEGRAMS AND BE AMENDED BY SUPPLEMENTAL\nMESSAGES.\n\n6.  FURTHER BACKGORUND ON AUTHORITY OF GAO TEAM AND\nGUIDANCE FOR EMBASSY COOPERATION WILL BE SUBJECT SEPARATE\nTELEGRAM.   INGERSOLL\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000052
+                }
+            ]
+        },
+        "29": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "JACKSON OF CHICAGO TRIBUNE",
+                            "id": 521228,
+                            "answers": [
+                                {
+                                    "answer_id": 581823,
+                                    "document_id": 979459,
+                                    "question_id": 521228,
+                                    "text": "NOVEMBER 6",
+                                    "answer_start": 765,
+                                    "answer_end": 775,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  MOSCOW 16827  051321Z\n\n46\nACTION EUR-12\n\nINFO  OCT-01  ISO-00  EURE-00  CG-00  DOTE-00  SSO-00  NSCE-00\n\n      SS-15  NSC-05  L-01  USIE-00  INRE-00  PRS-01  PA-01  SCS-03\n\n      SCA-01  CIAE-00  INR-05  NSAE-00  RSC-01  SY-04  H-01  \/051 W\n                       ---------------------     118555\nO 051309Z NOV 74\nFM AMEMBASSY MOSCOW\nTO SECSTATE WASHDC IMMEDIATE 4307\n\n\nLIMITED OFFICIAL USE MOSCOW 16827\n\nE.O. 11652:  N\/A\nTAGS:  CGEN (KUDIRKA, SIMAS)\nSUBJECT:  KUDIRKA CASE\n\nREF:  STATE 226008\n\n1.  MASON OF AP INFORMED EMBASSY THAT UNIDENTIFIED DISSIDENT\nREPORTED TO HIM THAT KUDIRKA HAD DEPARTED FROM USSSR NOV 5.\n\n2.  JACKSON OF CHICAGO TRIBUNE ALSO QUERIED EMBASSY ON\nBASIS REPORT FROM HIS PAPER THAT KUDIRKA WOULD ARRIVE\nCHICAGO NOVEMBER 6.\n\n3.  EMBOFF REPLIED TO BOTH WITH \"NO COMMENT.\"\nSTOESSEL\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000058
+                }
+            ]
+        },
+        "30": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "GOSK DEPUTY-DIRECTOR?",
+                            "id": 521244,
+                            "answers": [
+                                {
+                                    "answer_id": 581839,
+                                    "document_id": 979461,
+                                    "question_id": 521244,
+                                    "text": "MYASOYEDOV",
+                                    "answer_start": 538,
+                                    "answer_end": 548,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  MOSCOW 16847  051706Z\n\n43\nACTION CU-03\n\nINFO  OCT-01  EUR-08  ISO-00  USIE-00  SSO-00  \/012 W\n                       ---------------------     121746\nO R 051555Z NOV 74\nFM AMEMBASSY MOSCOW\nTO SECSTATE WASHDC IMMEDIATE 4319\nINFO AMCONSUL LENINGRAD\n\n\nLIMITED OFFICIAL USE MOSCOW 16847\n\nSTATE FOR CU\/ARTS; LENINGRAD FOR P&C\n\nE.O.  11652 N\/A\nTAGS: OEXC, UR\nSUBJ: EXCHANGES: CULTURAL PRESENTATIONS: JOFFREY BALLET\n\nREF:  (A) STATE 241128;  (B) STATE 016064\n\n1.  AT NOVEMBER 5TH MEETING WITH GOSK DEPUTY-DIRECTOR\nMYASOYEDOV, EMBOFF AGAIN ADVOCATED PERFORMANCES IN\nVILNIUS ON DECEMBER 7TH AS WELL AS CHANGING MOSCOW\nPREMIERE TO DECEMBER 10.TH.  MYASOYEDOV CORDIALLY, BUT\nFIRMLY DECLINED BOTH PROPOSALS, EXPLAINING THAT MATTER HAD\nBEEN TAKEN TO DEPUTY-MINISTER-OF-CULTURE LEVEL IN ORDER\nOBTAIN VILINIUS AS FOURTH PERFORMANCE SITE, AND THAT IT WAS ONLY\nWITH GRET DIFFICULTY THAT VILNIUS THEATER WAS MADE AVAILABLE\nAT ALL AT SUCH LATE DATE.  WHEN IT CAME TO MYASOYEDOV'S\nATTENTION YESTERDAY THAT JOFFREY AGAIN DEMANDED FOURRTH\nDAY IN VILNIUS, HE INQUIRED THROUGH HIS CHANNELS TO ATTEMPT\nARRANGE TWO PERFORMANCES ON SEVENTH, BUT WAS TOLD THAT\nTHEATER RESERVED FOR VILNIUS COMPANY ITSELF BEGINNING THE\nSEVENTH.  MYASOYEDOV ADDED THAT IT WAS VILNIUS COMPANY\nTHAT WAS DISLODGED BY JOFFREY'S QUOTE LAST-MINUTE\nINSISTENCE ON FOURTH CITY ENDQUOTE.\n\n2.  RE JOFFREY POINT THAT FIVE RATHER THAN FOUR\nPERFORMANCES IN VILNIUS ARE NECESSARY TO DISPLAY COMPANY\nAT ITS BEST, EMBASSY NOTES THAT ALL BALLETS PROPOSED FOR\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 02  MOSCOW 16847  051706Z\n\nTHE FIFTH PROGRAM ARE INCLUDED IN PROGRAM FOR FIRST FOUR\nPERFORMANCES.\n\n3.  MYASOYEDOV UNABLE POSTPONE MOSCOW PREMIERE UNTIL\nDECEMBER 10TH, POINTING OUT THAT SINCE THERE CAN BE NO\nPERFORMANCES IN VILNIUS ON THE SEVENTH, THE REQUISITE\nPERIOD FOR TRAVEL AND REST, AS STATED IN THE CONTRACT, IS\nPROVIDED FOR IF THE PREMIERE REMAINS THE NINTH.  EMBASSY\nREITERATES THAT THERE HAS NEVER RPT NEVER BEEN ANY DISCUSSION\nOF WHICH DAYS OF WEEK ARE TO BE SCHEDULED AS FREE AND\nTRAVEL DAYS, AND THAT IF CRAWFORD HAD MEANT TO DESIGNATE\nSPECIFIC DAYS, I.E. MONDAY AND TUESDAY, HE SHOULD HAVE\nDONE SO BEFORE CONTRACT WAS SIGNED.  AS FOR MOSCOW THEATER'S\nAVAILABILITY TWO DAYS BEFORE THE PREMIERE (STATE 241128,\nPARA 2), STATE 016046 SPECIFIES TWO FULL DAYS FOR REHEARSALS\nIN LENINGRAD ONLY.  GOSK SAYS THEATER WILL BE AVAILABLE\nTO COMPANY EARLY ON EIGHTH FOR PREMIERE ON NINTH.\n\n4. GOSK SAID QUOTE IT PROBABLY WOULD BE POSSIBLE\nENDQUOTE ARRANGE TWO PERFORMANCES ON SIXTEENTH AND ONE ON\nSEVENTHEENTH DECEMBER IF JOFFREY WISHES EXTEND MOSCOW APPEAR-\nANCE, BUTEMBASSY MUST KNOW ASAP IF COMPANY CAN REMAIN\nTHREE EXTRA DAYS.  EMBASSY SUPPORTS PROPOSAL FOR THREE\nEXTRA PERFORMANCES IN MOSCOW.  (EMBASSY ALSO WISHES POINT\nOUT THAT PROPOSED SCHEDULE FOR SIXTEENTH AND SEVENTEENTH\nAPPEARS TO CONTRADICT CRAWFORD'S INSISTENCE ON STRICT\nADHERENCE TO THE MONDAY-TUESDAY RULE AND THEREBY WEAKENS\nHIS ARGUMENT FOR CHANGING PREMIERE TO TENTH.)\n\n5. GOSK'S SCHEDULE NOW STANDS:  PREMIERE IN MOSCOW\nDECEMBER 9TH; EVENING PERFORMANCE 10TH; EVENING PERFORMANCE\n11TH; EVENING PERFORMANCE 12TH; AMBASSADOR'S RECEPTION\nAFTERNOON OF 13TH; EVENING PERFORMANCE 13TH; AND MATINEE\nAND EVENING PERFORMANCES 14TH.  TOTAL IN MOSCOW: SEVEN, PLUS\nPOSSIBLE MATINEE AND EVENING PERFORMANCES 16TH AND POSSIBLE\nEVENING PERFORMANCE 17TH, THE 15TH BEING A FREE DAY.  AT\nSECOND MEETING WITH GOSK TODAY, EMBASSY ASKED IF 9TH\nCOULD BE CONSIDERED REHEARSAL DAY ONLY, IN LIGHT OF IMPORTANCE\nTO COMPANY MOSCOW PREMIERE AND IN LIGHT OF COMPANY'S OFFER\nTO EXTEND FOR THREE EXTRA PERFORMANCES.  GOSK ANSWERED THAT\nITS SYSTEM OF PAYMENT FOR THEATERS WAS SUCH THAT PREMIERE\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 03  MOSCOW 16847  051706Z\n\nCANNOT BE CHANGED.\n\n6.  FYI: IT IS MYASOYEDOV'S OPINION, STATED IN EMBOFF'S\nPRESENCE, THAT FOR REASONS OF THEIR OWN, JOFFREY\"\nCRAWFOR ARE TRYING TO POSE OBSTACLES TO TOUR AND\nFORCE CANCELLATION.  FOR DEPUTY-DIRECTOR TO HOLD\nSUCH OPINION PLACES EMBASSY IN DIFFICULT POSITION REGARD-\nING FUTURE NEGOTIATIONS FOR AMERICAN GROUPS.  POINTED\nREMARK FOLLOWED THAT HUROK ASSOCIATES ARE SO MUCH EASIER\nTO DEAL WITH, AND EMBASSY FEARS IT BECOMING CLOSELY\nIDENTIFIED WITH JOFFREY COMPANY'S LACK OF PROFESSIONALISM\nIN THESE NEGOTIATIONS.  ENDY FYI.\n\n7.  WISH TO REMIND DEPARTMENT THAT SOVIET HOLIDAYS\nON 7TH AND 8TH NECESSITATE RESPONSE BY BEGINNING OF\nBUSINESS WEDNESDAY.  IT WILL BE IMPOSSIBLE TO REACH\nANY OFFICIAL SOVIET BETWEEN NOVEMBER 7TH AND 10TH.\n\nSTOESSEL\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000060
+                }
+            ]
+        },
+        "31": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Reinhart",
+                            "id": 458845,
+                            "answers": [
+                                {
+                                    "answer_id": 568832,
+                                    "document_id": 979402,
+                                    "question_id": 458845,
+                                    "text": "REINHARDT",
+                                    "answer_start": 454,
+                                    "answer_end": 463,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  LAGOS 10174  041554Z\n\n43\nACTION VOE-00\n\nINFO  OCT-01  AF-10  ISO-00  \/011 W\n                       ---------------------     104619\nR 041013Z NOV 74\nFM AMEMBASSY LAGOS\nTO SECSTATE WASHDC 6679\n\nUNCLAS LAGOS 10174\n\nE.O. 11652 : NA\nTAGS : CVIS NI\nSUBJ : VISAS\n\nREF  :  STATE 204189\n\nVISAS GIRAFFE EGYPTIAN THIRD 501 AND 502; EGYPTIAN NONPREFERENCE\n503 THRU 505; NIGERIA SECOND 127; NIGERIA SIXTH 71; NIGERIA\nNONPREFERENCE 77 THRU 84.\nREINHARDT\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000000
+                }
+            ]
+        },
+        "32": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mrs. Damien",
+                            "id": 458846,
+                            "answers": [
+                                {
+                                    "answer_id": 568839,
+                                    "document_id": 979404,
+                                    "question_id": 458846,
+                                    "text": "MRS. DAVIT AND SON DAMIAN FAILED TO BOARD TWA 803\nDEPARTING PARIS 12:00 NOVEMBER 4.",
+                                    "answer_start": 356,
+                                    "answer_end": 439,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  PARIS 25959  041449Z\n\n54\nACTION SCSE-00\n\nINFO  OCT-01  ISO-00  HEW-06  \/007 W\n                       ---------------------     103870\nO 041446Z NOV 74\nFM AMEMBASSY PARIS\nTO SECSTATE WASHDC IMMEDIATE 3825\n\nUNCLAS PARIS 25959\n\nE.O. 11652: N\/A\nTAGS: CASC (DAVIT, VIVIAN PLATSKY)\nSUBJECT: W\/W VIVIAN PLATSKY DAVIT\n\nREF: STATE 238697\n\n1. MRS. DAVIT AND SON DAMIAN FAILED TO BOARD TWA 803\nDEPARTING PARIS 12:00 NOVEMBER 4.\n\n2. PLEASE INFORM H.E.W. THAT MRS. DAVIT WILL NOT BE\nON FLIGHT ARRIVING LATER THIS AFTERNOON.\n\n3.  MRS. DAVIT NOW REFUSES DEPART PARIS UNTIL SHE\nCONTACTS PARENTS MR. & MRS. SELIG TAUBENBLATT, 8307\nCONWAY DRIVE, BETHESDA, MARYLAND. TEL: 365 7295\nSHE IS NOW PLACING COLLECT CALL FROM EMBASSY.\n\n4.  EMBASSY WILL INFORM DEPARTMENT AS SOON AS NEW\nTRAVEL ARRANGEMENTS ARE MADE.\nSTONE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000002
+                }
+            ]
+        },
+        "33": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "US Exhibition",
+                            "id": 458847,
+                            "answers": [
+                                {
+                                    "answer_id": 568843,
+                                    "document_id": 979405,
+                                    "question_id": 458847,
+                                    "text": "247",
+                                    "answer_start": 3010,
+                                    "answer_end": 3013,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  MUNICH 01674  041603Z\n\n51\nACTION EUR-12\n\nINFO  OCT-01  ISO-00  EB-06  USIA-15  PA-02  RSC-01  \/037 W\n                       ---------------------     104759\nP R 041530Z NOV 74\nFM AMCONSUL MUNICH\nTO USDOC WASHDC PRIORITY\nINFO SECSTATE WASHDC 5391\nAMEMBASSY BONN\nUSMISSION USBERLIN\nAMCONSUL BREMEN\nAMCONSUL DUESSELDORF\nAMCONSUL FRANKFURT\nAMCONSUL HAMBURG\nAMCONSUL STUTTGART\n\nUNCLAS MUNICH 1674\n\nCOMMERCE FOR BIC\/OIM\/TRAFTON\/ROOM 1015C\n\nE.O. 11652: N\/A\nTAGS: BEXP, GW\nSUBJECT: PERSONAL CALLS SCHEDULED\/COMPLETED FOR U.S. EXHIBITION\/\n         ELECTRONICA '74\n\nREF: USDOC 15977\/DUSEX EXCOM REPORT NO. 8, OCT 25, 74\n\nTHE FOLLOWING IS A LIST OF THE PERSONAL CALL CAMPAIGN AS SCHEDULED\nAND COMPLETED TO DATE FOR SUBJECT EXHIBITION:\n\nPOST CALLS     KEY PROS-      INSTITU-       POTENTIAL\n               PECTS          TIONAL         EXREPS\n\nSTUTTGART\nSCHEDULED  (6)\nCOMPLETED      3               -              3\nFRANKFURT\nSCHEDULED (10)\nCOMPLETED      6              2              2\nDUESSELDORF\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  MUNICH 01674  041603Z\n\nSCHEDULED  (10)\nIN ADDITION\n   TO QUOTA (18)\nCOMPLETED #    14             1              13\nBREMEN\nSCHEDULED  (5)\nIN ADDITION\n    TO QUOTA(6)\nCOMPLETED      2               -             9\nHAMBURG\nSCHEDULED  (6)\nIN ADDITION\n    TO QUOTA(2)\nCOMPLETED      8               -             -\nBERLIN\nSCHEDULED  (6)\nIN ADDITION\n    TO QUOTA(1)\nCOMPLETED      5               -              2\nMUNICH\nSCHEDULED  (10)\nIN ADDITION\n    TO QUOTA(8)\nCOMPLETED      10              3              5\nBONN\nSCHEDULED  (6)\nIN ADDITION\n    TO QUOTA(3)\nCOMPLETED      4               4              1\nSUB-TOTAL      52              10            35\n\nDBR CALLS      KEY PROS-      INSTITU-       POTENTIAL\nMR. DHIR       PECTS          TIONAL         EXREPS\n\nSTUTTGART\nSCHEDULED  (20)\nCOMPLETED##     9             -              6\nFRANKFURT\nSCHEDULED  (20)\nCOMPLETED###   9               -              3\nDUESSELDORF\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 03  MUNICH 01674  041603Z\n\nSCHEDULED  (20)\nIN ADDITION\n    TO QUOTA(42)\nCOMPLETED      47              3              12\nBREMEN\nSCHEDULED  (6)\nIN ADDITION\n    TO QUOTA(5)\nCOMPLETED      3               2             3\nHAMBURG\nSCHEDULED  (10)\nIN ADDITION\n    TO QUOTA(1)\nCOMPLETED      4              2              5\nBERLIN\nSCHEDULED  (10)\nIN ADDITION\n    TO QUOTA(9)\nCOMPLETED       11             2             6\nMUNICH\nSCHEDULED  (20)\nCOMPLETED      11\nSUB-TOTAL      94              9              35\n\nDUSEX CALLS    KEY PROS-      INSTITU-       POTENTIAL\nMR. BROMEL     PECTS          TIONAL         EXREPS\n\nSCHEDULED   (7)\nIN ADDTION\n    TO QUOTA(5)\nCOMPLETED      5              1              6\nSUB-TOTAL      5           1              6\n\nSUMMARY OF TOTAL:\n\nTOTAL POST CALLS52            10             35\nTOTAL DBR CALLS94              9             35\nTOTAL DUSEX CALLS5            1               6\nGRAND TOTAL: 151              20             76\n\nGRAND TOTAL OF ALL PERSONAL CALLS: (TO DATED) 247\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 04  MUNICH 01674  041603Z\n\n\n# DUSEX\/DBR ARRANGED FORSOME ADDITIONAL 500 U.S. EX-\nHIBITION \"FLYERS\" TO BE DISTRIBUTED BY CONSULATE\nPERSONNEL WHO PERSONALLY HANDED THESE FLYERS TO\nSELECTED KEY\/INSTITUTIONAL\/POTENTIAL EXREP EXHIBITORS\nAT \"INTERKAMA '74\".\n\n## DBR CALL EFFORT LIMITED TO FOUR DAYS IN STUTTGART TO\nBE ABLE ATTEND \"KICKOFF\" PRESS CONFERENCE IN MUNICH.\n\n### DBR CALL EFFORT LIMITED TO THREE DAYS IN FRANKFURT\nTO BE ABLE ATTEND PRESS CONFERENCE IN DUESSELDORF.\n\nNOTE: PIR FORMS FOR ALL PERSONAL CALLS BEING SUBMITTED\nTO DUSEX (COPY TO BONN) FOR FORWARDING TO OIM.SPIVACK\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000003
+                }
+            ]
+        },
+        "34": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "AMCONSUL MEDELLIN",
+                            "id": 458850,
+                            "answers": [
+                                {
+                                    "answer_id": 568871,
+                                    "document_id": 979408,
+                                    "question_id": 458850,
+                                    "text": "CAKE FORMING MACHINE (PREFORMING MACHINE) FOR THE\n     MANUFACTURING OF PLASTIC PRODUCTS.",
+                                    "answer_start": 688,
+                                    "answer_end": 777,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  MEDELL 00340  051421Z\n\n50\nACTION ARA-10\n\nINFO  OCT-01  EB-06  ISO-00  RSC-01  \/018 W\n                       ---------------------     119405\nR 042110Z NOV 74\nFM AMCONSUL MEDELLIN\nTO USDOC WASHDC\nINFO SECSTATE WASHDC 936\nAMEMBASSY BOGOTA\n\nUNCLAS MEDELLIN 0340\n\nE.O. 11652: N\/A\nTAGS: BEXP\nSUBJ: PRIVATE TRADE OPPORTUNITY\n\n1. 301\/06\/P-0016\n\n2. 103074\n\n3. J. COOPER\n\n4. 301 COLOMBIA\n\n5. M.\n\n6. REPLY TO - -\n\n6B. LUIS EDUARDO MEJIA, JEFE DE IMPORTACIONES\n\n6C. LANDERS MORA AND CIA. S.A.\n     APARTADO AEREO 842\n    MEDELLIN, COLOMBIA\n\n7. CABLE: LANMORA, MEDELLIN. TEL. 351292\n\n8. - -\n\n9. 101\n\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  MEDELL 00340  051421Z\n\n10. 3559398-0000 CAKE FORMING MACHINE (PREFORMING MACHINE) FOR THE\n     MANUFACTURING OF PLASTIC PRODUCTS.\n\n    THE BUYER  IS A LARGE AND IMPORTANT CONCERN ESTABLISHED IN\n     MEDELLIN SINCE 1951. ENGAGED IN THE MANUFACTURE OF PRESSURE\n    COOKERS AND MEAT AND CORN GRINDERS, WITH AN EXCELLENT ACCEPTANCE\n    IN COLOMBIA AND OTHER LATIN AMERICAN COUNTRIES.\nCOOPER\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000006
+                }
+            ]
+        },
+        "35": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "REPROGRAPHIKA?",
+                            "id": 458852,
+                            "answers": [
+                                {
+                                    "answer_id": 568873,
+                                    "document_id": 979410,
+                                    "question_id": 458852,
+                                    "text": "12 MONTH PROJECTION 1.0 MILLION US DOLLARS",
+                                    "answer_start": 858,
+                                    "answer_end": 900,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  MOSCOW 16749  041348Z\n\n53\nACTION EUR-12\n\nINFO  OCT-01  ISO-00  EB-06  RSC-01  \/020 W\n                       ---------------------     103095\nP R 040852Z NOV 74\nFM AMEMBASSY MOSCOW\nTO USDOC WASHDC PRIORITY\nINFO SECSTATE WASHDC 4249\nAMEMBASSY VIENNA\nAMEMBASSY WARSAW\nUSIA WASHDC\n\nUNCLAS MOSCOW 16749\n\nUSDOC FOR BEWT\/THOMPSON DIBA\/ZENS  BIC\/MOOSE FROM BLOW\n\nVIENNA FOR EWTC\/MARTIN\n\nWARSAW FOR USTODIO\/HERTZBERG\n\nUSIA FOR IBS, PS\n\nE.O. 11652: NA\nTAGS: BEXP, UR\nSUBJ: REPROGRAPHIKA 74 - FINAL REPORT\n\nREF: MOSCOW 16489\n\n1. FINAL REPORT FOR REPROGRAPHIKA 74 - JEEP AS OF COB\nNOVEMBER 1, 1974.  ONE EXHIBITOR CONTINUES TO NEGOTIATE,\nBUT THIS REPORT CONSIDERED FINAL.  FORMAT FOLLOWS:\n1. REPROGRAPHIKA 74  JEEP\n2. US COMMERICAL OFFICE, MOSCOW, USSR, OCTOBER 29-31, 1974\n3. AGENTS APPOINTED -0-, UNDER NEGOTIATION -0-\n4. FLOOR SALES: $2,000\n   12 MONTH PROJECTION 1.0 MILLION US DOLLARS\n5. NUMBER OF REGISTERED VISITORS: -0-.  AS PREVIOUSLY\nREPORTED, IT IS VIOLATION OF SOVIET REGULATIONS TO REGISTER\nVISITORS AT EXHIBITIONS IN THE SOVIET UNION.  FOLLOWING IS\nBREAKDOWN OF ATTENDANCE DURING LECTURES:\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  MOSCOW 16749  041348Z\n\n29 OCT. A.M. ADVANCE PROCESS SUPPLY 65\n29 OCT. P.M. KODAK (SUBSTITUTE)    97\n30 OCT. A.M. SCM                    46\n30 OCT. P.M. IBM                    32\n31 OCT. A.M. KODAK                  77\n31 OCT . P.M. KODAK                 85\n                         TOTAL     402\nTHESE FIGURES REPRESENT SEMINAR VISITORS ONLY.  SEVERAL\nSOVIET BUYING OFFICIALS HELD MEETINGS WITH EXHIBITORS DURING\nLECTURE PERIOD AND NO ATTEMPT WAS MADE TO KEEP A DOOR COUNT.\n6. NOTEWORTHY RESULTS: EASTMAN KODAK SOLD ALL DISPLAY\nITEMS FROM FLOOR AND STATED QUOTE THIS COMBINED EXHIBITION\nSYMPHOSIUM THOUGH SMALL IN SIZE, WAS WITHOUT DOUBT BIG IN\nSTATURE.  THIS PROVED BY THE LARGE NUMBER OF PEOPLE WHO\nATTENDED AND THEIR SERIOUS ATTENTION PARTICULARLY DURING\nTHE LECTURE SESSIONS.  THE FACILITIES AVAILABLE TO US AND\nTHE ORGANIZATION OF THE WHOLE VENTURE COULD NOT BE FAULTED\nIN ANY WAY.  UNQUOTE (CLEARED FOR PUBLICATION) SCM\nCORPORATION IS STILL NEGOTIATING BUT FORECASTS 1,000,000\nUS DLRS NEXT TWELVE MONTHS AS RESULTS OF CONTACTS MADE\nDURING JEEP.  QUOTE: EXHIBITION PROVIDED AN EXCELLENT\nOPPORTUNITY TO MAKE GOOD CONTACTS FOR FUTURE BUSINESS.\nTHE DEPARTMENT DESERVES HIGH MARKS INDEED FOR ITS SUCESS\nIN GETTING THE RELEVANT PEOPLE IN AND FOR THE QUALITY OF\nTHE SHO.  UNQUOTE (CLEARED FOR PUBLICATION)\n7. OBSERVATIONS: OBVIOUSLY, SUPPORT OF THE CHAMBER OF\nCOMMERCE AND INDUSTRY AND STATE COMMITTEE FOR SCIENCE AND\nTECHNOLOGY CRITICAL TO THE SUCCESS OF SEMINAR\/EXHIBIT.  AS\nPREVIOUSLY REPORTED RE PREPARATION FOR THIS JEEP, MANY HOURS\nWERE SPENT IN NAILING DOWN SPONSORSHIP.  ONCE STATE COMMITTEE\nOF SCIENCE AND TECHNOLOGY AGREED TO SPONSOR AND CHAMBER\nAGREED DISTRIBUTE TICKETS, AUDIENCE SHOWED UP IN MASSE.\nPRODUCT THEME WAS A GOOD ONE.  BOTH IBM AND SCM REPORTED\nEXCELLENT INTEREST IN COPYING MACHINES.  ALTHOUGH SCM FOUND\nONLY LIMITED INTEREST IN SMALL MACHINES USING 2 MC. OXIDE\nPAPER BUT MUCH GREATER INTEREST IN LARGE (ALONG LINES OF\nXEROX 3600) MACHINE WHICH WORKS ON PLAIN PAPER.  KODAK\nSOLD THEIR MICROFILM EQUIPMENT EASILY.  ADVANCE PROCESS\nSUPPLY SPEND LONG HOURS IN PRIVATE DISCUSSIONS WITH\nIMPORTANT PUBLISHING INSTITUTES.  DEPENDING ON USDOC'S\nDECISION FOR INTERORGTECHNIKA 75, THESE FIRMS SHOULD\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 03  MOSCOW 16749  041348Z\n\nDEFINTELY BE CONTACTED FOR PARTICIPATION IN USA PAVILION.\nKODAK, SCM, IBM WILL PROBABLY PARTICIPATE EVEN IF THERE IS\nNO USG SPONSORSHIP.\n8. TOTAL NUMBER OF EXHIBITORS: 4 PAS FOR 4 COMPANIES\nA. NEW-TO-EXPORT: -0-\nB. NEW-TO-MARKET: 3\nC. OLD TO MARKET: 1\nD. FULLY ACHIEVING MARKET OBJECTIVES: 4\nE. PARTIALLY ACHIEVING MARKET OBJECTIVES: -0-\nF. FAILING TO ACHIEVE MARKET OBJECTIVES: -0-\nG. NUMBER OF EXHIBITORS WITH REPRESENTATIVES\nATTENDING FROM U.S.: 3 AMERICANS FROM 2 COMPANIES.\nNOTE: IBM HAD RESIDENT AMERICAN DIRECTOR\nKODAK SENT 3 FROM U.K.\n9. EXHIBITORS EXTREMELY PLEASED WITH ALL FACETS OF THIS\nSEMINAR\/EXHIBITION.  WE HOPE TO OBTAIN BSPS FROM ALL FOUR\nDURING NEXT TWELVE MONTHS.  LAST MINUTE DROP-OUT BY\nIMAGE SYSTEMS CAUSED SOME EMBARRASSMENT, BUT DID PROVIDE\nADDITIONAL EXHIBIT SPACE IN AN ALREADY CROWDED AREA.\nEQUIPMENT CONTENT AND SIZE WELL SUITED TO MIRO SYSTEM AND\nAVAILABLE SPACE.  SUGGEST USDOC FURNISH COPIES OF BRIEFING\nMATERIALS AS USED TYPE I TRADE FAIRS TO EXHIBITORS\nBEFORE THEY DEPART FOR THE SOVIET UNION.  IF USDOC SUPPLY\nEXHAUSTED, USCOMOFF CAN FORWARD ADDITIONAL MATERIALS.\nEMBASSY WILL FORWARD THESE ITEMS TO USEWTC PRIOR TO\nCHROMA\/SPECTRO JEEP IN DECEMBER.\n10. WITHOUT SUPPORT OF SOVIET ORGANIZATIONS, PARTICULARLY\nCHAMBER OF COMMERCE\/INDUSTRY, SUCCESS OF THIS SHOW WOULD\nHAVE BEEN PROBLEMATICAL, AT BEST.  COMPAISON OF OUR\nEXPERIENCE IN JULY AND LATEST CASE IS QUITE INSTRUCTIVE.\nCOMMOFF BELIEVES THIS POINTS UP, INTER ALIA, NECESSITY OF\nADHERING AS CLOSELY AS POSSIBLE TO CHAMBER'S REQUEST THAT\nINFORMATION ON PROPOSED JEEPS\/SEMINARS BE PRESENTED NO\nLATER THAN SIX MONTHS PRIOR TO EVENT IN QUESTION.  AS THIS\nDEADLINE HAS ALREADY PASSED FOR MARCH 1975 OIL\/GAS FIELD\nEQUIPMENT JEEP, WE WOULD APPRECIATE RECEIVING INFORMATION\nON THIS EVENT, EVEN IF INCOMPLETE, ASAP.\nSTOESSEL\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000008
+                }
+            ]
+        },
+        "36": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Mr. Valeo's",
+                            "id": 458854,
+                            "answers": [
+                                {
+                                    "answer_id": 568880,
+                                    "document_id": 979412,
+                                    "question_id": 458854,
+                                    "text": "RESERVATIONS FOR MR. VALEO HAVE BEEN MADE AT HYATT\nHOTEL NOVEMBER 11 - 15.",
+                                    "answer_start": 435,
+                                    "answer_end": 509,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  MANILA 13096  051040Z\n\n43\nACTION H-03\n\nINFO  OCT-01  EA-06  ISO-00  RSC-01  \/011 W\n                       ---------------------     116847\nR 050913Z NOV 74\nFM AMEMBASSY MANILA\nTO AMEMBASSY TOKYO\nINFO SECSTATE WASHDC 8135\n\n\nLIMITED OFFICIAL USE MANILA 13096\n\nFOR DESAIX ANDERSON PASS TO STAFFDEL VALEO\n\nE.O. 11652: N\/A\nTAGS: OREP (VALEO, FRANCIS J.)\nSUBJECT: STAFFDEL VALEO\n\nREF: STATE 242032 (NOTAL)\n\n1. RESERVATIONS FOR MR. VALEO HAVE BEEN MADE AT HYATT\nHOTEL NOVEMBER 11 - 15. AMBASSADOR HAS ISSUED INVITATIONS\nFOR DINNER IN MR. VALEO'S HONOR NOVEMBER 14 TO GOVERN-\nMENT OFFICIALS, POLITICAL FIGURES, JOURNALISTS, AND\nBUSINESSMEN WHO HAVE PARTICULAR ASSOCIATIONS WITH\nVARIOUS ASPECTS OF CHINA QUESTION.\n\n2. AMBASSADOR WOULD ALSO LIKE INVITE MR. VALEO TO\nDINNER HE IS GIVING NOVEMBER 12 IN HONOR ARCHBISHOP\nSIN, WHO IS NEW AND IMPRESSIVE FIGURE ON PHILIPPINE\nNATIONAL SCENE. GUESTS WILL BE PROMINENT CLERICAL AND\nLAY LEADERS OF CHURCH WHO CAN GIVE MR. VALEO INTERESTING\nPERSPECTIVE ON THEIR CURRENT OUTLOOK.\n\n3. REQUESTED BRIEFINGS WILL BE ARRANGED AT EMBASSY\nON NOVEMBER 12. PLEASE ADVISE IF MR. VALEO HAS OTHER\nPROGRAM INTERESTS HE WISHES US TO ARRANGE IN ADVANCE HIS\nARRIVAL.\n\n4. AS MR. VALEO PROBABLY KNOWS, MRS. MARCOS, GOVERNOR\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 02  MANILA 13096  051040Z\n\nROMUALDEZ AND OTHRS ARE LEAVING FOR EXTENDED VISIT TO\nU.S. LATER THIS WEEK.\nSULLIVAN\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000011
+                }
+            ]
+        },
+        "37": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "WORLD FOOD CONFERENCE?",
+                            "id": 458856,
+                            "answers": [
+                                {
+                                    "answer_id": 568949,
+                                    "document_id": 979414,
+                                    "question_id": 458856,
+                                    "text": " MAJOR DECISION LEFT UNRESOLVED BY DAY-LONG SESSION WAS ON\nSELECTION OF CONFERENCE OFFICERS",
+                                    "answer_start": 1123,
+                                    "answer_end": 1214,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  ROME 15235  050820Z\n\n15\nACTION SWF-01\n\nINFO  OCT-01  EUR-08  IO-04  ISO-00  AF-04  ARA-06  EA-06  NEA-06\n\n      RSC-01  OIC-02  OES-02  STR-01  CIAE-00  INR-05  NSAE-00\n\n      PA-01  USIA-06  PRS-01  SP-02  L-01  SS-15  NSC-05  \/078 W\n                       ---------------------     115463\nR 050801Z NOV 74\nFM AMEMBASSY ROME\nTO SECSTATE WASHDC 7903\nINFO USMISSION USUN NEW YORK\n\n\nLIMITED OFFICIAL USE ROME 15235\n\nE.O. 11652: N\/A\nTAGS: OCON, WFC\nSUBJECT: WORLD FOOD CONFERENCE, NOV 5-16, 1974: HIGHLIGHTS OF\n         PRE-CONFERENCE MEETING NOVEMBER 4\n\n1. MAJOR DECISIONS TAKEN BY PRE-CONFERENCE MEETING OF\nDELEGATIONS WERE:\nA. AGREEMENT TO RECOMMEND ADOPTION OF RULES OF PROCEDURE\nESTABLISHED BY SECOND PREPCOM AND APPROVED BY ECOSOC;\nB. AGREEMENT OF MEMBERSHIP FOR CREDENTIALS COMMITTEE INCLUDING\nALL MEMBERS OF CREDENTIALS COMMITTEE OF 29TH UNGA, EXCEPT\nFOR SUBSTITUTION ZAMBIA FOR CHINA AFTER VOLUNTARY WITHDRAWAL\nOF CHINA (SEPTEL), AND\nC. ALLOCATION OF RESPONSIBILITIES TO THE THREE PROPOSED\nCOMMITTEES INCLUDING THOSE DRAFT RESOLUTIONS OF INDIVIDUAL\nCOUNTRIES AS WELL AS SECRETARIAT.\n\n2. MAJOR DECISION LEFT UNRESOLVED BY DAY-LONG SESSION WAS ON\nSELECTION OF CONFERENCE OFFICERS (SIZE AND COMPOSITION OF THE\nBUREAU). EARLY IN DAY, GROUP B PROPOSED BUREAU OF 14 MEMBERS\nWITH PRESIDENT AND TWO VICE PRESIDENT DESIGNATED FOR GROUP B\nAS WELL AS ONE OF THREE COMMITTEE RAPPORTEUR POSTS.\nSINCE GROUP B SHARE IN THIS PROPOSAL WAS LESS THAN 3-2-1,\nRATIO USED IN OTHER UN BODIES, GROUP B FELT PROPOSAL WAS\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 02  ROME 15235  050820Z\n\nFORTHCOMING.\n\n3. AFTER SKILLFUL LOGROLLING BETWEEN COMBINED GROUP OF 77--\nNONALIGNED GROUP AND SOCIALIST BLOC, NONALIGNED PROPOSED\nBUREAU OF 25 WITH PRESIDENT, THREE VICE PRESIDENTS AND ONE\nCOMMITTEE CHAIRMANSHIP FOR GROUP B BUT NO RAPPORTEUR\nPOSITION. GROUP B MEMBERS FOUND OFFER UNACCEPTABLE\nPARTICULARLY BECAUSE OF LACK OF RAPPORTEUR POSITION AND\nCOMMITTEE DECIDED TO CONTINUE NEGOTIATIONS ON TUESDAY,\nNOVEMBER 5. DESPITE LACK OF AGREEMENT ON THIS MATTER,\nCONFERENCE WILL OPEN AND PROCEED AS PLANNED ON TUESDAY,\nNOVEMBER 5.\nVOLPE\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000013
+                }
+            ]
+        },
+        "38": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "ISMAEL TELLO?",
+                            "id": 458858,
+                            "answers": [
+                                {
+                                    "answer_id": 568951,
+                                    "document_id": 979416,
+                                    "question_id": 458858,
+                                    "text": "MANAGER OF IMPORTADORA FOTO-MORIZ",
+                                    "answer_start": 416,
+                                    "answer_end": 449,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  BOGOTA 09831  062104Z\n\n62\nACTION ARA-10\n\nINFO  OCT-01  ISO-00  EB-06  RSC-01  \/018 W\n                       ---------------------     011430\nP 052223Z NOV 74\nFM AMEMBASSY BOGOTA\nTO USDOC WASHDC PRIORITY\nINFO SECSTATE WASHDC 5601\n\nUNCLAS BOGOTA 9831\n\nEO 11652: NA\nTAGS: BEXP, CO\nSUBJ: FOREIGN BUYERS GROUP TO PRINT-74\n\nDEPT. PLS PASS TO DONAL T. JONES-PROJECT OFFICER-BIC\/OED\n\n1. ISMAEL TELLO, MANAGER OF IMPORTADORA FOTO-MORIZ, MEMBER\nOF GROUP, HAS REQUESTED THAT ADVANCE APPOINTMENTS BE ARRANGED\nFOR HIM TO VISIT FOLLOWING EXHIBITORS, PERIOD - NOVEMBER 16-20:\n\nMR. W. J. HUNT - PRESIDENT - SAMUEL BINGHAM CO - STAND 1852\n\nMR. DALE N. DUKES, COSAR CORP - STAND 2366\n\nMR. M. R. ARONSON - PRESIDENT - SPRAYWAY IND - STAND 1140\n\nMR. JOHN T. ROGOWICKI, ARMAVCO MARKETING CO. INC.- STAND 235\n\nMR. JAY M. DEMENT, ATLAS SILK SCREEN SUPPLY CO - STAND 1357\/8\n\nMR. J. B. MCNAMARA, FREUNDORFER INC., STAND 238\n\nMR. TELLO REQUIRES INTERPRETER.\n\n2. IF NOT POSSIBLE TO SUBMIT REPLY BEFORE NOVEMBER 15TH, MESSAGE\nSHOULD BE LEFT AT HOLIDAY INN, LAKESHORE DRIVE, UNDER CARE OF\nGROUP'S CONTROL OFFICER, MAGDALENA USCATEGUI.\nWHITE\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000015
+                }
+            ]
+        },
+        "39": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Howard Crooks?",
+                            "id": 520443,
+                            "answers": [
+                                {
+                                    "answer_id": 579094,
+                                    "document_id": 979423,
+                                    "question_id": 520443,
+                                    "text": "DIRECTOR AND OWNER OF OILFIELD SUPPLY\nINTERNATIONAL LTD",
+                                    "answer_start": 498,
+                                    "answer_end": 553,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  NAIROB 09270  051421Z\n\n46\nACTION AF-07\n\nINFO  OCT-01  ISO-00  SCS-03  SCA-01  L-01  H-01  SY-04  CIAE-00\n\n      INR-05  NSAE-00  RSC-01  \/024 W\n                       ---------------------     119402\nR 051355Z NOV 74\nFM AMEMBASSY NAIROBI\nTO AMEMBASSY MOGADISCIO\nINFO SECSTATE WASHDC 9885\nAMEMBASSY ADDIS ABABA\n\n\nLIMITED OFFICIAL USE NAIROBI 9270\n\nE.O. 11652: N\/A\nTAGS: CASC (LIGHT, DAVID)\nSUBJECT: DETENTION OF AMCIT DAVID LIGHT\n\nREF: MOGADISCIO 1630\n\nHOWARD CROOKS, DIRECTOR AND OWNER OF OILFIELD SUPPLY\nINTERNATIONAL LTD, HEADQUARTERED IN NAIROBI, HAS BEEN\nTO SEE ME WITH REGARD TO DAVID LIGHT. I ADVISED HIM\nOF CONTENTS OF REF. CROOKS MADE FOUR POINTS:\n   (A) WHEN CONSULAR ACCESS IS OBTAINED, HE WOULD\nLIKE LIGHT TO BE INFORMED OF CROOK'S CONCERN AND SYMPATHY;\n   (B) CROOKS TELEPHONED MRS. LIGHT ON 4 NOVEMBER.\nMRS. LIGHT HAD INTENDED TO DISCUSS CASE WITH SENATOR\nJAVITS WITH IDEA IN MIND THAT NEWSPAPER STORY WOULD HELP.\nHOWEVER, SHE WILL NOW WAIT FOR FURTHER RESULTS FROM\nAMERICAN EMBASSY MOGADISCIO. I GAVE SAME CAUTIONARY\nADVICE TO CROOKS AS DEPARTMENT HAD GIVEN TO MRS.\nLIGHT (STATE 242630).\n   (C) MRS. LIGHT HAS INDICATED HER INTENTION TO\nVISIT SOMALIA; CROOKS  IS TO ADVISE MRS. LIGHT THAT SHE\nMUST APPLY FOR VISA TO SOMALIA BEFORE LEAVING U.S.\nVISA IS NOT GUARANTEE THAT SHE WILL BE ALLOWED TO\nENTER SOMALIA.\n   (D) CROOKS HAS OFFERED AND IS INTERESTED IN\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 02  NAIROB 09270  051421Z\n\nPERSONALLY COMING TO SOMALIA IF THIS WOULD HELP EMBASSY.\nEMBASSY VIEWS REQUESTED.\nMARSHALL\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000022
+                }
+            ]
+        },
+        "40": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "OVIMPEX",
+                            "id": 520445,
+                            "answers": [
+                                {
+                                    "answer_id": 579096,
+                                    "document_id": 979425,
+                                    "question_id": 520445,
+                                    "text": "OVIMPEX HAS ENGAGED ATTORNEYS",
+                                    "answer_start": 628,
+                                    "answer_end": 657,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  CANBER 07249  050638Z\n\n15\nACTION EA-10\n\nINFO  OCT-01  ISO-00  EB-06  RSC-01  \/018 W\n                       ---------------------     114183\nR 050444Z NOV 74\nFM AMEMBASSY CANBERRA\nTO USDOC WASHDC\nSECSTATE WASHDC 4435\nINFO AMCONSUL MELBOURNE\n\nUNCLAS CANBERRA 7249\n\nFOL TEL SENT ACTION CANBERRA FROM MELBOURNE DATED 3 NOV 1974\nREPEATED TO YOU\n\nQUOTE\n\nUNCLAS MELBOURNE 1265\n\nE.O. 11652: N\/A\nTAGS: BDIS, AS\nSUBJ: TRADE COMPLAINT: AUSTRALIAN PRAWNS EXPORTS. OVIMPEX\nV. PELEX FOOD PTY. LTD. AND BROWN AND DUREAU LTD.\n\nREF:  CANBERRA 6947\n\n1. EXPORT MANAGER OF PELEX FOOD PTY. LTD. HAS INFORMED CONGEN\nTHAT SINCE OVIMPEX HAS ENGAGED ATTORNEYS THEY HAVE ACTED LIKEWISE\nAND, THEREFORE, HAVE NO COMMENT.\n\n2. BROWN AND DUREAU'S NATIONAL EXPORT MANAGER, WHICH INCLUDES\nBRISBANE OPERATION, CLIAMS CONFUSION BY OVIMPEX'S COMPLAIN ON\nTHE FOLLOWING GROUNDS:\n\nA) SHIPMENT WAS PASSED BY AUSTRALIAN DEPARTMENT OF PRIMARY\nINDUSTRIES AND BY US FDA AUTHORITIES.\n\nB) IF ANYTHING WRONG WITH THESE SHIPMENTS THEY ARE USUALLY\nREJECTED PRIOR TO DEPARTURE FROM AUSTRALIA OR ON THE WHARF\nIN THE US.\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  CANBER 07249  050638Z\n\n\nC) OVIMPEX BROUGHT PRAWNS AT VERY HIGH MARKET PRICES WHEREAS\nNOW BOTTOM HAS DROPPED OUT OF US MARKET.\n\nD) AT TIME OF SHIPMENT THERE WAS A GENERAL SCARCITY OF SHRIMP\nSO CLAIMS OF \"OFF QUALITY\" DUE TO LONG STORAGE PRIOR TO SHIPMENT\nARE DOUBTFUL.\n\nE) HE UNDERSTANDS MOST PART OF SHIPMENT ALREADY SOLD IN US,\nMAKING ANY CLAIMS ON BROWN AND DUREAU AND\/OR ITS SUPPLIER\nRATHER CONTENTIOUS.\n\n3. AUSTRALIAN MARINE UNDERWRITERS AGENCY'S MELBOURNE\nOFFICE INFORMED CONGEN THAT AMUA MANAGING DIRECTOR G.G. GAUCI,\nIS PRESENTLY IN US FOR DISCUSSIONS WITH OVIMPEX ON NOVEMBER\n6, AND HOPES TO AMICABLY RESOLVE PROBLEM. AMUA ASKS US TO\nREFRAIN FROM ACTION UNTIL THIS MEETING OVER.\n\n4. POST COMMENT: ALL AUSTRALIAN FIRMS INVOLVED, INCLUDING THE\nINSURANCE AGENCIES, SEEM QUITE WILLING TO ATTEMPT TO REACH AN\nAMICABLE SETTLEMENT IN ORDER TO CONTINUE FUTURE SHRIMP EXPORTS.\nTHEREFORE, RECOMMEND NO ACTION UNTIL RESULTS OF ABOVE MEETING\nKNOWN.\nBRAND\n\nUNQUOTE\nGREEN\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000024
+                }
+            ]
+        },
+        "41": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Somalia President",
+                            "id": 520448,
+                            "answers": [
+                                {
+                                    "answer_id": 579099,
+                                    "document_id": 979429,
+                                    "question_id": 520448,
+                                    "text": "OFFICIAL VISIT\nEQUATORIAL GUINEA STARTING O\/A NOVEMBER 10.",
+                                    "answer_start": 737,
+                                    "answer_end": 795,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  DOUALA 00302  050834Z\n\n17\nACTION AF-10\n\nINFO  OCT-01  EUR-12  ISO-00  CIAE-00  DODE-00  PM-03  H-02\n\n      INR-07  L-02  NSAE-00  NSC-05  PA-02  RSC-01  PRS-01  SP-02\n\n      SS-15  USIA-15  ACDA-10  SAM-01  IO-10  \/099 W\n                       ---------------------     115609\nR 050625Z NOV 74\nFM AMCONSUL DOUALA\nTO AMEMBASSY MOGADISCIO\nINFO SECSTATE WASHDC 0805\nAMEMBASSY ADDIS ABABA\nAMEMBASSY LAGOS\nAMEMBASSY LIBREVILLE\nAMEMBASSY MADRID\nAMEMBASSY PARIS\nAMEMBASSY YAOUNDE\n\nUNCLAS DOUALA 0302\n\nE.O. 11652: N\/A\nTAGS: OTRA (PRESIDENT SIAD BARRE), EK, SO\n\nREF: A) YAOUNDE 3385,  B) YAOUNDE 3458,  C) YAOUNDE 3403\n\n1. DURING OCTOBER 31 TRIP MALABO, CONSUL MITHOEFER LEARNED\nSOMALIA PRESIDENT SAID BARRE SCHEDULED MAKE OFFICIAL VISIT\nEQUATORIAL GUINEA STARTING O\/A NOVEMBER 10.\n\n2. PRESUME VISIT IN CONNECTION WITH SOMALIA PRESIDENTS OAU\nRESPONSIBILITIES, ALTHOUGH SUBJECT OF GABON-EQUATORIAL GUINEA\nBORDER DISPUTE (REFTELS) COULD VERY WELL BE RAISED IN COURSE\nOF VISIT.\nMITHOEFER\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000028
+                }
+            ]
+        },
+        "42": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "immediate payment",
+                            "id": 520450,
+                            "answers": [
+                                {
+                                    "answer_id": 579101,
+                                    "document_id": 979431,
+                                    "question_id": 520450,
+                                    "text": "DUE TO POSTAL STRIKE FRANCE",
+                                    "answer_start": 352,
+                                    "answer_end": 379,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  FLOREN 00415  051738Z\n\n61\nACTION SCSE-00\n\nINFO  OCT-01  ISO-00  FSE-00  \/001 W\n                       ---------------------     122288\nR 051550Z NOV 74\nFM AMCONSUL FLORENCE\nTO SECSTATE WASHDC 1020\n\nUNCLAS FLORENCE 0415\n\n\n\nEO 11652: N\/A\nTAGS: CASC (MATHEWS, ALFREDA M.)\nSUBJECT: W\/W FUNDS ALFREDA M. MATHEWS\nREF:  STATE 240480\n\n\n\nDUE TO POSTAL STRIKE FRANCE, NOT CERTAIN WHEN CONSULATE WILL\nRECEIVE REQUIRED FUNDS FROM REGIONAL FINANCE CENTER, PARIS.  AT\nPRESENT MOMENT INSUFFICIENT CASH ONHAND AT POST FOR IMMEDIATE PAYMENT\nTO SUBJECT. PLEASE ADVISE.\nGORDON\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000030
+                }
+            ]
+        },
+        "43": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "HECTOR A. MAY",
+                            "id": 520452,
+                            "answers": [
+                                {
+                                    "answer_id": 579103,
+                                    "document_id": 979433,
+                                    "question_id": 520452,
+                                    "text": "CRIB SIZE BABY BLANKETS MADE WHOLLY OR MAINLY OF RAYON\nOR ACETATE",
+                                    "answer_start": 868,
+                                    "answer_end": 933,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "CRIB SIZE BABY BLANKETS",
+                            "id": 521188,
+                            "answers": [
+                                {
+                                    "answer_id": 581782,
+                                    "document_id": 979433,
+                                    "question_id": 521188,
+                                    "text": "VALUE AND QUANTITY UNKNOWN.",
+                                    "answer_start": 935,
+                                    "answer_end": 962,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "BABY PADS AND DIAPER COVERS",
+                            "id": 521189,
+                            "answers": [
+                                {
+                                    "answer_id": 581783,
+                                    "document_id": 979433,
+                                    "question_id": 521189,
+                                    "text": "VALUE AND QUANTITY UNKNOWN.",
+                                    "answer_start": 1033,
+                                    "answer_end": 1060,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "HECTOR A. MAY, MANAGER",
+                            "id": 521190,
+                            "answers": [
+                                {
+                                    "answer_id": 581784,
+                                    "document_id": 979433,
+                                    "question_id": 521190,
+                                    "text": "VALUE AND QUANTITY UNKNOWN",
+                                    "answer_start": 1105,
+                                    "answer_end": 1131,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "INFANTS' AND CHILDREN'S METAL FURNITURE",
+                            "id": 521191,
+                            "answers": [
+                                {
+                                    "answer_id": 581785,
+                                    "document_id": 979433,
+                                    "question_id": 521191,
+                                    "text": "VALUE AND QUANTITY UNKNOWN",
+                                    "answer_start": 1362,
+                                    "answer_end": 1388,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "ALL TYPES OF CHILDREN'S TOYS MECHANICAL AND ELECTRICAL",
+                            "id": 521192,
+                            "answers": [
+                                {
+                                    "answer_id": 581786,
+                                    "document_id": 979433,
+                                    "question_id": 521192,
+                                    "text": "VALUE AND QUANTITIES UNKNOWN",
+                                    "answer_start": 1463,
+                                    "answer_end": 1491,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  GUATEM 06064  052246Z\n\n67\nACTION ARA-10\n\nINFO  OCT-01  ISO-00  EB-06  RSC-01  \/018 W\n                       ---------------------     125824\nR 052135Z NOV 74\nFM AMEMBASSY GUATEMALA\nTO USDOC WASHDC\nINFO SECSTATE WASHDC 4906\n\nUNCLAS GUATEMALA 6064\n\nE.O. 11652: N\/A\nTAG: BEXP, GT\nSUBJECT: PRIVATE TRADE OPPORTUNITY\n\n1. 205\/01\/P0026\n\n2. 110474\n\n3. E. CASTRO\n\n4. 205 GUATEMALA\n\n5. A I\n\n6. A. REPLY TO --\n   B. HECTOR A. MAY, MANAGER\n   C. MAY REPRESENTACIONES\n      APARTADO POSTAL 53-B\n      GUATEMALA CITY, GUATEMALA\n\n7. TEL. 86550\n\n8. RELIANCE PRODUCTS CORP. - WOONSOCKET, R.I.\n\n9. 102-11 9A. DIRECT SALE (RESALE) ALSO EXCLUSIVE DISTRI-\nBUTORSHIP.\n\n10. DESCRIPTION\n    2392038-0000\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  GUATEM 06064  052246Z\n\nJACQUARD BABY PADS TO BE USED IN BABY CRIBS OR PLAY-\nPENS. VALUE AND QUANTITY UNKNOWN.\n\n    2221921-0000\nCRIB SIZE BABY BLANKETS MADE WHOLLY OR MAINLY OF RAYON\nOR ACETATE. VALUE AND QUANTITY UNKNOWN.\n\n    2385071-0000\nBABY PADS AND DIAPER COVERS, PLASTIC OR RUBBERIZED.\nVALUE AND QUANTITY UNKNOWN.\n\n    2514493-0000\nMETAL INFANTS' CAR SEATS. VALUE AND QUANTITY UNKNOWN.\n\n    2514494-0000\nINFANTS' AND CHILDREN'S METAL FURNITURE INCLUDING\nCHAIRS, TABLES, PLAYPENS, PLAY YARDS AND PORTABLE\nCRIBS. VALUE AND QUANTITY UNKNOWN.\n\n    3944311-0000\nBABY CARRIAGES, INCLUDING COMBINATION CARRIAGE-STROLLERS.\nVALUE AND QUANTITY UNKNOWN.\n\n    394420-0000\nALL TYPES OF CHILDREN'S TOYS MECHANICAL AND ELECTRICAL.\nVALUE AND QUANTITIES UNKNOWN.\n\nINTERESTED FIRM HAS RECENTLY BEGUN OPERATIONS; IT WILL\nSPECIALIZE IN BABY AND CHILDREN ITEMS MAINLY.\nMR. MAY HAS SOME EXPERIENCE IN THIS FIELD\nFROM HIS ASSOCIATION WITH A LEADING FIRM\nIN BABY ITEMS, ALMACEN MI AMIGO, ONE WHOSE SHAREHOLDERS;\nJACOBO CAMHI, IS MR. MAY'S PARTNER. THE FIRM WILL\nOPERATE INITIATLLY AS A MANUFACTURER'S REPRESENTATIVE\nWITH EXCLUSIVE DISTRIBUTORSHIP ARRANGEMENTS. FIRM'S\nREPUTATION UNKNONW, BUT GIVEN REPUTATION OF\nPARTNERS IS RECOMMENDED AS A TRADE CONTACT\nFOR U.S. FIRMS.\n\nSINCE ESTIMATED VALUE AND QUANTITY OF ITEMS IS UNKNOWN,\nCATALOGS, PRICE LISTS, PAYMENT CONDITIONS AND DELIVERY\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 03  GUATEM 06064  052246Z\n\nTIME WILL BE APPRECIATED.\nANDREWS\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000032
+                }
+            ]
+        },
+        "44": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "EPICHLOROHYDRIN",
+                            "id": 521204,
+                            "answers": [
+                                {
+                                    "answer_id": 581798,
+                                    "document_id": 979435,
+                                    "question_id": 521204,
+                                    "text": "8,000 KILOS",
+                                    "answer_start": 1153,
+                                    "answer_end": 1164,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "AMILO ACETATE",
+                            "id": 521200,
+                            "answers": [
+                                {
+                                    "answer_id": 581794,
+                                    "document_id": 979435,
+                                    "question_id": 521200,
+                                    "text": " 10,000\nPOUNDS",
+                                    "answer_start": 783,
+                                    "answer_end": 797,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "OXYTOL ACETATE",
+                            "id": 521201,
+                            "answers": [
+                                {
+                                    "answer_id": 581795,
+                                    "document_id": 979435,
+                                    "question_id": 521201,
+                                    "text": "10,000\nKILOS",
+                                    "answer_start": 869,
+                                    "answer_end": 881,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "DEHYDRACETIC ACID",
+                            "id": 521202,
+                            "answers": [
+                                {
+                                    "answer_id": 581796,
+                                    "document_id": 979435,
+                                    "question_id": 521202,
+                                    "text": "300\nKILOS",
+                                    "answer_start": 973,
+                                    "answer_end": 982,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "BHC",
+                            "id": 521203,
+                            "answers": [
+                                {
+                                    "answer_id": 581797,
+                                    "document_id": 979435,
+                                    "question_id": 521203,
+                                    "text": "50,000\nPOUNDS",
+                                    "answer_start": 1070,
+                                    "answer_end": 1083,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "ACTIVE DDT",
+                            "id": 521205,
+                            "answers": [
+                                {
+                                    "answer_id": 581799,
+                                    "document_id": 979435,
+                                    "question_id": 521205,
+                                    "text": "500,000 POUNDS",
+                                    "answer_start": 1259,
+                                    "answer_end": 1273,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "DIETHYLENGLYCOL",
+                            "id": 521206,
+                            "answers": [
+                                {
+                                    "answer_id": 581800,
+                                    "document_id": 979435,
+                                    "question_id": 521206,
+                                    "text": "30,000 POUNDS",
+                                    "answer_start": 1365,
+                                    "answer_end": 1378,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "METHYL GLYCOL",
+                            "id": 521208,
+                            "answers": [
+                                {
+                                    "answer_id": 581802,
+                                    "document_id": 979435,
+                                    "question_id": 521208,
+                                    "text": "200,000\nKILOS",
+                                    "answer_start": 1550,
+                                    "answer_end": 1563,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "ISOPROPYL ALCOHOL",
+                            "id": 521207,
+                            "answers": [
+                                {
+                                    "answer_id": 581801,
+                                    "document_id": 979435,
+                                    "question_id": 521207,
+                                    "text": "12,000\nGALLONS",
+                                    "answer_start": 1447,
+                                    "answer_end": 1461,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "MONOCHLOROBENZENE",
+                            "id": 521209,
+                            "answers": [
+                                {
+                                    "answer_id": 581803,
+                                    "document_id": 979435,
+                                    "question_id": 521209,
+                                    "text": "1,500\nKILOS",
+                                    "answer_start": 1656,
+                                    "answer_end": 1667,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "ETHYL PARATHION",
+                            "id": 521210,
+                            "answers": [
+                                {
+                                    "answer_id": 581804,
+                                    "document_id": 979435,
+                                    "question_id": 521210,
+                                    "text": "400,000 KILOS",
+                                    "answer_start": 1758,
+                                    "answer_end": 1771,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  GUATEM 06062  052210Z\n\n62\nACTION ARA-10\n\nINFO  OCT-01  ISO-00  EB-06  RSC-01  \/018 W\n                       ---------------------     125318\nR 052127Z NOV 74\nFM AMEMBASSY GUATEMALA\nTO USDOC WASHDC\nINFO SECSTATE WASHDC 4904\n\nUNCLAS GUATEMALA 6062\n\nE.O. 11652: N\/A\nTAGS: BEXP, GT\nSUBJECT: PRIVATE TRADE OPPORTUNITY\n\n1. 205\/01\/P0023\n\n2. 103074\n\n3. E. CASTRO\n\n4. 205 GUATEMALA\n\n5. I M\n\n6. A. REPLY TO --\n   B. WALKER VON HOLLEBEN, GENERAL MANAGER\n   C. BAYER DE GUATEMALA, LTDA.\n      APARTADO POSTAL 1573\n      GUATEMALA CITY, GUATEMALA\n\n7. TEL. 66126 & 66047 CABLE: BAYGUA\n\n8. NAFTONE, INC. NEW YORK, N.Y.\n\n9. 10\n\n10. DESCRIPTION\n\n    2823198-0000\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 02  GUATEM 06062  052210Z\n\nAMILO ACETATE PACKED IN 200 POUNDS CONTAINERS. AMOUNT: 10,000\nPOUNDS. VALUE UNKNOWN.\nOXYTOL ACETATE PACKED IN 190 KILOS CONTAINERS. AMOUNT: 10,000\nKILOS. VALUE UNKNOWN.\n\n    2861231-0000\nDEHYDRACETIC ACID PACKED IN 50 KILOS CONTAINERS. AMOUNT: 300\nKILOS. VALUE UNKNOWN.\n\n    2879139-0000\nBHC AT 30 PERCENT PACKED IN 50 POUNDS SACKS. AMOUNT: 50,000\nPOUNDS. VALUE UNKNOWN.\nEPICHLOROHYDRIN PACKED IN 230 KILOS BARRELS. AMOUNT: 8,000 KILOS.\nVALUE UNKNOWN.\n\n    2879133-0000\nACTIVE DDT AT 100 PERCENT PACKED IN 50 POUNDS SACKS. AMOUNT\n500,000 POUNDS. VALUE UNKNOWN.\n\n    2869521-0000\nDIETHYLENGLYCOL PACKED IN 520 POUNDS CONTAINERS. AMOUNT:\n30,000 POUNDS. VALUE UNKNOWN.\nISOPROPYL ALCOHOL PACKED IN 55 GALLON DRUMS. AMOUNT 12,000\nGALLONS. VALUE UNKNOWN.\n\n    2869598-0000\nMETHYL GLYCOL PACKED IN 200 KILOS CONTAINERS. AMOUNT: 200,000\nKILOS. VALUE UNKNOWN.\n\n    2879132-0000\nMONOCHLOROBENZENE PACKED IN 220 KILOS CONTAINERS. AMOUNT: 1,500\nKILOS. VALUE UNKNOWN.\n\n    2879143-0000\nETHYL PARATHION PACKED IN 250 KILOS CONTAINERS. AMOUNT:\n400,000 KILOS. VALUE UNKNOWN.\n\nINTERESTED FIRM IS THE LOCAL SUBSIDIARY OF THE GERMAN BAYER\nCORPORATION. THE FIRM ENJOYS IMPORT DUTY EXEMPTIONS UNDER\nTHE GUATEMALAN INDUSTRIAL DEVELOPMENT LAW. THE COMPANY IS\nINTERESTED INT THE PURCHASE OF THE LISED CHEMICALS TO BE\nUNCLASSIFIED\n\nUNCLASSIFIED\n\nPAGE 03  GUATEM 06062  052210Z\n\nUSED IN THE FORMULATION AND MANUFACTURE OF INSECTICIEDES AND\nPESTICIDES WHOSE PRODUCTION IS ON 1.3 MILLION LITRES A YEAR.\nTHE FIRM HAS A GOOD BANK CREDIT RATING AND IS CONSIDERED\nAS A GOOD RISK FOR TRADE TRANSACTIONS. QUOTATIONS CIF GUATEMALA\nPREFERRRED. DELIVERY TIME AND PAYMENT CONDITIONS APPRECIATED.\nANDREWS\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000034
+                }
+            ]
+        },
+        "45": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "REP. FINDLEY?",
+                            "id": 520906,
+                            "answers": [
+                                {
+                                    "answer_id": 580663,
+                                    "document_id": 979437,
+                                    "question_id": 520906,
+                                    "text": " NO OPERA IN FLORENCE DURING PERIOD REP. FINDLEY STAY",
+                                    "answer_start": 526,
+                                    "answer_end": 579,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  FLOREN 00413  051524Z\n\n46\nACTION H-03\n\nINFO  OCT-01  EUR-12  ISO-00  SS-07  AID-01  NSC-06  RSC-01  \/031 W\n                       ---------------------     120356\nP 051450Z NOV 74\nFM AMCONSUL FLORENCE\nTO SECSTATE WASHDC PRIORITY 1018\nINFO AMEMBASSY ROME PIROITY\n\nUNCLAS FLORENCE 0413\n\n\n\nEO 11652: N\/A\nTAGS:OREP\nSUBJECT : CODEL ZABOLOCKI (PAUL FINDLEY)\nREF: STATE 242679\n\n\n\n1. DOUBLE ROOM RESERVED GRAND HOTEL NIGHTS NOV 8 AND 9. CAR AND\nDRIVER RESRVED FROM AFTERNOON NOV 8 UNTIL DEPARTURETIME NOV 10\n2.  NO OPERA IN FLORENCE DURING PERIOD REP. FINDLEY STAY.  FLORENCE\nWOODWIND QUINTET PERFORMING CONCERT OF BRAHMS, HAYDN AND GHEDINI\nAT OPERA HOUSE AT 9:30 PM NOV 9.  HAVE CONTACTED DIANE WHO WOULD\nLIKE TO ATTEND CONCERT WITH PARENTS AND FRIEND.  WILL ATTEMPT OBTAIN\nFOUR TICKETS.  DIANE WILL MEET PARENTS AT RAILROAD STATION ON\nARRIVAL.\nGORDON\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000036
+                }
+            ]
+        },
+        "46": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "MR. ROLAND DE LAGERIE",
+                            "id": 520907,
+                            "answers": [
+                                {
+                                    "answer_id": 580664,
+                                    "document_id": 979439,
+                                    "question_id": 520907,
+                                    "text": "11 THROUGH 15 NOVEMBER 1974",
+                                    "answer_start": 499,
+                                    "answer_end": 526,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "MR. ROLAND DE LAGERIE?",
+                            "id": 521215,
+                            "answers": [
+                                {
+                                    "answer_id": 581809,
+                                    "document_id": 979439,
+                                    "question_id": 521215,
+                                    "text": "P-5 CHIEF OF UN OFFICE GENEVA SECRETARIAT\nRECRUITMENT AND TRAINING",
+                                    "answer_start": 381,
+                                    "answer_end": 447,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "MR. ROLAND DE LAGERIE?",
+                            "id": 521216,
+                            "answers": [
+                                {
+                                    "answer_id": 581810,
+                                    "document_id": 979439,
+                                    "question_id": 521216,
+                                    "text": "NEW YORK FOR CONSULTATIONS WITH\nUN HQS 11 THROUGH 15 NOVEMBER 1974",
+                                    "answer_start": 460,
+                                    "answer_end": 526,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "MR. BOB WEBB?",
+                            "id": 521217,
+                            "answers": [
+                                {
+                                    "answer_id": 581811,
+                                    "document_id": 979439,
+                                    "question_id": 521217,
+                                    "text": "DIRECTOR DIVISION OF\nRECRUITMENT",
+                                    "answer_start": 794,
+                                    "answer_end": 826,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  GENEVA 06733  051654Z\n\n67\nACTION IO-10\n\nINFO  OCT-01  ISO-00  EUR-12  RSC-01  \/024 W\n                       ---------------------     121681\nR 051635Z NOV 74\nFM USMISSION GENEVA\nTO USMISSION USUN NEW YORK\nINFO SECSTATE WASHDC 9033\n\nUNCLAS GENEVA 6733\n\nDEPT FOR IO\/EX\n\nE.O. 11652: N\/A\nTAGS: AORG OTRA\nSUBJECT: TRAVEL OF UN OFFICIAL\n\n1. MR. ROLAND DE LAGERIE, P-5 CHIEF OF UN OFFICE GENEVA SECRETARIAT\nRECRUITMENT AND TRAINING, WILL BE IN NEW YORK FOR CONSULTATIONS WITH\nUN HQS 11 THROUGH 15 NOVEMBER 1974. HIS SCHEDULE WILL NOT PERMIT HIM\nTO TRAVEL TO WASHINGTON TO VISIT THE DEPARTMENT (AS SUGGESTED BY\nKEVIN CARROLL), BUT HE SAID HE WOULD BE HAPPY TO MEET WITH OUR\nOFFICERS IN NEW YORK. THOSE WHO WISH TO SEE DE LAGERIE CAN REACH\nHIM THROUGH THE OFFICE OF MR. BOB WEBB, DIRECTOR DIVISION OF\nRECRUITMENT.\n\n2. ALTHOUGH HIS HANDS APPEAR TIED BY SUPERIORS IN NEW YORK, AND HE\nTHEREFORE DOES NOT WANT HIS NAME INVOLVED, DE LAGERIE WOULD\nAPPRECIATE ANYTHING THAT COULD BE DONE TO STREAMLINE PROCEDURES\nFOR SUBMISSION OF REQUESTS FOR EXECUTIVE ORDER 10422 CLEARANCES.\nMISSION WOULD BE PLEASED TO FORWARD FORMS DIRECT TO CSC\n(AS IS CASE FOR EVERY OTHER UN ORG IN GENEVA), BUT UNOG\nIS OBLIGED SEND THEM TO NEW YORK WHICH HAS\nCAUSED UNNECESSARY DELAYS AND PROBLEMS.DALE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000038
+                }
+            ]
+        },
+        "47": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "USMISSION GENEVA to SECSTATE WASHDC 9032",
+                            "id": 520909,
+                            "answers": [
+                                {
+                                    "answer_id": 580666,
+                                    "document_id": 979441,
+                                    "question_id": 520909,
+                                    "text": " DOLLARS 800",
+                                    "answer_start": 355,
+                                    "answer_end": 367,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  GENEVA 06730  051638Z\n\n67\nACTION OIC-02\n\nINFO  OCT-01  IO-10  ISO-00  \/013 W\n                       ---------------------     121509\nR 051550Z NOV 74\nFM USMISSION GENEVA\nTO SECSTATE WASHDC 9032\n\nUNCLAS GENEVA 6730\n\nFOR IO\/OIC\n\nE.O. 11652: N\/A\nTAGS: OCON PFOR AFIN CSCE\nSUBJ: CSCE REPRESENTATION FUNDS\n\nUSDEL CSCE REQUESTS ADDITIONAL DOLLARS 800 TO COVER\nREPRESENTATION REQUIREMENTS DURING REMAINDER OF 1974. DALE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000040
+                }
+            ]
+        },
+        "48": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "USMISSION GENEVA TO AMEMBASSY BERN",
+                            "id": 520911,
+                            "answers": [
+                                {
+                                    "answer_id": 580668,
+                                    "document_id": 979443,
+                                    "question_id": 520911,
+                                    "text": "EMBASSY BERN",
+                                    "answer_start": 398,
+                                    "answer_end": 410,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  GENEVA 06717  050920Z\n\n44\nACTION COME-00\n\nINFO  OCT-01  IO-10  ISO-00  EB-06  RSC-01  EUR-12  \/030 W\n                       ---------------------     116087\nR 051000Z NOV 74\nFM USMISSION GENEVA\nTO AMEMBASSY BERN\nINFO SECSTATE WASHDC 9022\n\nUNCLAS GENEVA 6717\n\nE.O.  11652:  N\/A\nTAGS:  EINV XG\nSUBJ:  MINNESOTA REVERSE INVESTMENT MISSION\n\nREF:  STATE 242089; BERN 3716\n\nASSUME EMBASSY BERN WILL TAKE RESPONSIBILITY FOR NECESSARY\nARRANGEMENTS FOR VISIT OF MINNESOTA TEAM TO GENEVA AS REQUEST\nPARA 3 DEPTEL.DALE\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000042
+                }
+            ]
+        },
+        "49": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "AMEMBASSY PORT LOUIS TO SECSTATE WASHDC 4863",
+                            "id": 520916,
+                            "answers": [
+                                {
+                                    "answer_id": 580673,
+                                    "document_id": 979448,
+                                    "question_id": 520916,
+                                    "text": "I PLAN TO BE IN WASHINGTON\nON CONSULTATION DURING THAT PERIOD",
+                                    "answer_start": 576,
+                                    "answer_end": 637,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  PORT L 00932  051531Z\n\n47\nACTION AF-07\n\nINFO  OCT-01  ISO-00  RSC-01  \/009 W\n                       ---------------------     120482\nR 051300Z NOV 74\nFM AMEMBASSY PORT LOUIS\nTO SECSTATE WASHDC 4863\n\n\nLIMITED OFFICIAL USE PORT LOUIS 0932\n\nFOR AF\/ZACHARY\n\nE.O. 11652: N\/A - DECON UPON  RECEIPT\nTAGE: OTRA MP\nSUBJECT: ZACHARY VISIT\n\nREF: ZACHARY\/MANHARD LETTER OCT. 16, 1974\n\nEMBASSY PLEASED TO LEARN OF ZACHARY VISIT AND WILL PLAN BRIEFINGS\nAND CALLS ON MAURITIAN OFFICIALS. I REGRET THAT I WILL NOT BE IN\nMAURITIUS TO GREET ZACHARY PERSONALLY AS I PLAN TO BE IN WASHINGTON\nON CONSULTATION DURING THAT PERIOD.\nMANHARD\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000047
+                }
+            ]
+        },
+        "50": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "BANGLADESH FISHERIES DEVELOPMENT CORPORATION",
+                            "id": 520918,
+                            "answers": [
+                                {
+                                    "answer_id": 580675,
+                                    "document_id": 979450,
+                                    "question_id": 520918,
+                                    "text": "FISHING TRAWLERS (REFAIR",
+                                    "answer_start": 515,
+                                    "answer_end": 539,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "UNCLASSIFIED\n\nPAGE 01  DACCA 05061  050524Z\n\n10\nACTION COME-00\n\nINFO  OCT-01  NEA-10  ISO-00  COA-01  EB-06  CIAE-00  INR-07\n\n      NSAE-00  RSC-01  DOTE-00  TRSE-00  FMC-02  \/028 W\n                       ---------------------     113563\nR 050419Z NOV 74\nFM AMEMBASSY DACCA\nTO SECSTATE WASHDC 4797\n\nUNCLAS DACCA 5061\n\nE.O. 11652 : N\/A\nTAGS       : EFIS, BEXP, BG\nSUBJECT    : INTEREST IN US VESSELS\n\nREF        : A-6186, AUGUST 5, 1974\n\n1.  BANGLADESH FISHERIES DEVELOPMENT CORPORATION (BFDC)\nEXPRESSED INTEREST IN FISHING TRAWLERS (REFAIR).  BFDC\nHAS REQUESTED QUOTE, A DETAILED DESCRIPTION AND ALL RELE-\nVANT INFORMATION WITH PRICE AND PRESENT CONDITION\nUNQUOTE.\n\n2.  PLEASE AIR POUCH REQUESTED INFO ALONG WITH CURRENT\nAVAILABILITY OF TRAWLERS.\nBOSTER\n\n\nUNCLASSIFIED\n\n\n\n\nNNN",
+                    "document_id": 1000049
+                }
+            ]
+        },
+        "51": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "Braniff",
+                            "id": 520920,
+                            "answers": [
+                                {
+                                    "answer_id": 580677,
+                                    "document_id": 979452,
+                                    "question_id": 520920,
+                                    "text": "11:30 PM",
+                                    "answer_start": 778,
+                                    "answer_end": 786,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  SANTIA 06681  051454Z\n\n47\nACTION ARA-10\n\nINFO  OCT-01  ISO-00  \/011 W\n                       ---------------------     119897\nP R 051415Z NOV 74\nFM AMEMBASSY SANTIAGO\nTO AMEMBASSY LIMA PRIORITY\nINFO SECSTATE WASHDC 904\n\n\nLIMITED OFFICIAL USE SANTIAGO 6681\n\nEO 11652: N\/A\nTAGS: OCON, PE, CI, EC (ROGERS, WILLIAM D.)\n\nFOR AMBASSADOR DEAN FROM POPPER\n\nREF:  LIMA 9285\n\n1.  MANY THANKS FOR YOUR HOSPITABLE TELEGRAM.  WILL BE\nDELIGHTED TO STAY WITH YOU SUNDAY NIGHT AND JOIN YOU ON\nBRANIFF FLIGHT TO QUITO MONDAY MORNING, ASSUMING OUR\nTIMING IS SATISFACTORY TO SECRETARY ROGERS.  PERHAPS YOUR\nTRAVEL OFFICE CAN RECONFIRM MY LIMA-QUITO FLIGHT, RESERVED FROM HERE.\n\n2.  RE YOUR REFERENCE TO SUNDAY AFTERNOON, PLEASE NOTE\nTHAT BRANIFF FLIGHT ARRIVES LIMA 11:30 PM (2330).  IF YOU WILL\nHAVE SOMEONE MEET ME AND JUST LEAVE FRONT DOOR OPEN WITH\nINSTRUCTIONS, I WILL STEAL SILENTLY INTO RESIDENCE WITHOUT\nDISTURBING YOU.\n\n3.  PLAN RETURN TUESDAY AM VIA BRANIFF 979.\n\n4.  LOOK FORWARD TO BEING WITH YOU.\nPOPPER\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000051
+                }
+            ]
+        },
+        "52": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "AMBASSADORS DEAN AND POPPER FROM",
+                            "id": 520927,
+                            "answers": [
+                                {
+                                    "answer_id": 581817,
+                                    "document_id": 979456,
+                                    "question_id": 520927,
+                                    "text": "MONDAY, NOVEMBER 11",
+                                    "answer_start": 707,
+                                    "answer_end": 726,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  STATE  243432\n\n44\nORIGIN ARA-10\n\nINFO  OCT-01  ISO-00  SSO-00  SS-15  OIC-02  IO-04  RSC-01  \/033 R\n\nDRAFTED BY ARA\/LA:PJDE VOS:MJT\nAPPROVED BY ARA\/LA:WDROGERS\nARA\/MGT - MR. ACKERMAN (SUBS)\n                       ---------------------     123583\nO R 051929Z NOV 74\nFM SECSTATE WASHDC\nTO AMEMBASSY LIMA IMMEDIATE\nAMEMBASSY SANTIAGO\nINFO AMEMBASSY QUITO\n\n\nLIMITED OFFICIAL USE STATE 243432\n\nE.O. 11652:  N\/A\n\nTAGS: OCON, PE, CI, EC.  (ROGERS, WILLIAM D.)\n\nSUBJECT:  CONSULTATIONS IN QUITO\n\nFOR AMBASSADORS DEAN AND POPPER FROM ASSISTANT SECRETARY\nROGERS\n\n1.  WHILE WE DO NOT YET KNOW THE EXACT SCHEDULE AND DEMANDS\nOF THE OAS CONFERENCE, I WOULD HOPE TO FIND A SUITABLE TIME\nON MONDAY, NOVEMBER 11, TO MEET WITH YOU BOTH ON THAT DAY.\n\n2.  FISCAL DATA:  POPPER, DAVID H. - SANTIAGO,CHILE\/QUITO\/\nSANTIAGO.  4101-500293 DTD 11\/5\/74.  1950113-4101-500293-\n112400-2155.\n\n3.  FISCAL DATA:  DEAN, ROBERT W. - LIMA\/QUITO\/LIMA.\n4101-500294 DTD 11\/5\/74.  1950113-4101-500294-112300-2155.\n INGERSOLL\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000055
+                }
+            ]
+        },
+        "53": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "DEPUTY CHAIRMAN OF STATE COMMITTEE",
+                            "id": 521223,
+                            "answers": [
+                                {
+                                    "answer_id": 581818,
+                                    "document_id": 979458,
+                                    "question_id": 521223,
+                                    "text": "G.M. GVISHIANI",
+                                    "answer_start": 509,
+                                    "answer_end": 523,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "G.M. GVISHIANI",
+                            "id": 521224,
+                            "answers": [
+                                {
+                                    "answer_id": 581819,
+                                    "document_id": 979458,
+                                    "question_id": 521224,
+                                    "text": " TWO\nSONY VIDEOTAPE RECORDER (VTR) SYSTEMS",
+                                    "answer_start": 560,
+                                    "answer_end": 602,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Commatt",
+                            "id": 521225,
+                            "answers": [
+                                {
+                                    "answer_id": 581820,
+                                    "document_id": 979458,
+                                    "question_id": 521225,
+                                    "text": "SEVERAL VTR CASSETTES FROM FOREIGN COMPANIES",
+                                    "answer_start": 686,
+                                    "answer_end": 730,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "GVISHIANI HAD SEVERAL VTR CASSETTES FROM FOREIGN COMPANIES",
+                            "id": 521226,
+                            "answers": [
+                                {
+                                    "answer_id": 581821,
+                                    "document_id": 979458,
+                                    "question_id": 521226,
+                                    "text": "COCA-COLA, BASF AND BAYER",
+                                    "answer_start": 742,
+                                    "answer_end": 767,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "U.S. TOURISM DELEGATION ",
+                            "id": 521227,
+                            "answers": [
+                                {
+                                    "answer_id": 581822,
+                                    "document_id": 979458,
+                                    "question_id": 521227,
+                                    "text": "SEPTEMBER 20",
+                                    "answer_start": 397,
+                                    "answer_end": 409,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  MOSCOW 16858  051844Z\n\n64\nACTION EUR-12\n\nINFO  OCT-01  ISO-00  EB-04  RSC-01  \/018 W\n                       ---------------------     123015\nR 051548Z NOV 74\nFM AMEMBASSY MOSCOW\nTO SECSTATE WASHDC 4328\nINFO USDOC WASHDC\n\n\nLIMITED OFFICIAL USE MOSCOW 16858\n\nUSDOC FOR BEWT\/TDAD\n\nE.O.  11652 N\/A\nTAGS: EEWT, BEXP, UR\nSUBJ: GETTING THE MESSAGE TO GVISHIANI\n\n1.  DURING SEPTEMBER 20 MEEING WITH U.S. TOURISM DELEGATION,\nDEPUTY CHAIRMAN OF STATE COMMITTEE FOR SCIENCE AND TECHNOLOGY\nG.M. GVISHIANI TOOK GREAT PRIDE IN FACT THAT HE HAD TWO\nSONY VIDEOTAPE RECORDER (VTR) SYSTEMS IN HIS OFFICE.  COMMATT,\nWHO ACCOMPANIED U.S. DELEGATION, NOTED THAT GVISHIANI HAD\nSEVERAL VTR CASSETTES FROM FOREIGN COMPANIES, INCLUDING\nCOCA-COLA, BASF AND BAYER, AND MENTIONED TO GVISHIANI THAT\nVTR CASSETTES OPENED INTERESTING POSSIBILITIES FOR CONTACTS\nBETWEEN SOVIET ORGANIZATIONS AND U.S. FIRMS.  GVISHIANI AGREED\nAND SAID HE RECEIVED SUBSTANTIAL NUMBERS OF CASSETTES FOR U.S.\nCOMPANIES.\n\n2.  COMMENT:  IN VIRE CONTINUING EFFORTS BY U.S. COMPANIES TO\nATTRACT GVISHIANI'S ATTENTION, WHICH IS NOT EASY GIVEN HIS MANY\nCOMMITMENTS, STATE AND COMMERCE MIGHT WISH TO SUGGEST TO FIRMS\nWHICH HAVE VTR CASSETTES ON COMPANY'S ACTIVITIES THAT THEY\nCONSIDER SENDING CASSETTES TO GVISHIANI.  ONE INTERESTING\nSIDELIGHT IS THAT SOVIETS ARE APPARENTLY ATTEMPTING TO COPY\nSONY VTR, ALBEIT ON RATHER MODES SCAL.  GVISHIANI POINTED\nOUT SMALL, UNIMPRESSIVE INSTRUMENT WHICH WAS PLACED\nON TABLE NEXT TO SONY SYSTEMS AND SAID, RATHER SCORNFULLY,\nTHAT THIS WAS \"OUR INDUSTRY'S ATTEMPT TO MATCH SONY.\"\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 02  MOSCOW 16858  051844Z\n\nSTOESSEL\n\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000057
+                }
+            ]
+        },
+        "54": {
+            "paragraphs": [
+                {
+                    "qas": [
+                        {
+                            "question": "SENATOR MONDALE",
+                            "id": 521229,
+                            "answers": [
+                                {
+                                    "answer_id": 581824,
+                                    "document_id": 979460,
+                                    "question_id": 521229,
+                                    "text": "1620 ARRIVE SHEREMETYEVO ON BEA 672 FROM LONDON TO HOTEL\nSOVETSKAYA\nTO EMBASSY FOR BRIEFING AND MEETING WITH U.S. PRESS\n\n1900 CIRCUS OR THEATER (ALTERNATIVELY, EMBASSY MARINE\nBALL, 2000)",
+                                    "answer_start": 631,
+                                    "answer_end": 817,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "SENATOR MONDALE",
+                            "id": 521230,
+                            "answers": [
+                                {
+                                    "answer_id": 581825,
+                                    "document_id": 979460,
+                                    "question_id": 521230,
+                                    "text": "1000 MEETING WITH PARLIAMENTARY GROUP (HOSTED BY COUNCIL OF THE\nUNION CHAIRMAN SHITIKOV OR COUNCIL OF NATIONALITIES CHAIRMAN\nRUBEN)\n1100 TOUR OF KREMLIN PALACE AND OF SUPREME SOVIET CHAMBER\n1630 VISIT TO DEPUTY MINISTER OF FOREIGN TRAD MANZHULO\n1900 THEATER OR CIRCUS",
+                                    "answer_start": 839,
+                                    "answer_end": 1106,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "SENATOR MONDALE",
+                            "id": 521231,
+                            "answers": [
+                                {
+                                    "answer_id": 581826,
+                                    "document_id": 979460,
+                                    "question_id": 521231,
+                                    "text": "1000 STATE COMMITTEE ON SCIENCE AND TECHNOLOBY\n1600 LECTURE AT USA INSTITUTE\n2355 LEAVE FOR LENINGRAD ON RED ARROW EXPRESS TRAIN",
+                                    "answer_start": 1203,
+                                    "answer_end": 1331,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "SENATOR MONDALE",
+                            "id": 521232,
+                            "answers": [
+                                {
+                                    "answer_id": 581827,
+                                    "document_id": 979460,
+                                    "question_id": 521232,
+                                    "text": "0820 ARRIVE LENINGRAD\nRECEIVED BY MAYOR OF LENINGRAD (V.I. KAZAKOV)\nVISIT SMOLNY INSTITUTE, PISKAREVSKOYE CEMETERY, HERMITAGE\nMUSEUM\nLUNCH GIVEN B MAYOR\n1941 LEAVE BY PLANE TO KAZAN (FLIGHT 5530)\n2201 ARRIVE KAZAN",
+                                    "answer_start": 1354,
+                                    "answer_end": 1567,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "SENATOR MONDALE",
+                            "id": 521233,
+                            "answers": [
+                                {
+                                    "answer_id": 581828,
+                                    "document_id": 979460,
+                                    "question_id": 521233,
+                                    "text": "0900 RECEIVED BY MEMBER OF PRESIDIUM OF SUPREME SOVIET OF\nUSSR AND FIRST SECRETARY OF TATAR ASSR PARTY (F.A. TABEYEV)\nAND BY CHAIRMAN OF PRESIDIUM OF SUPREME SOVIET OF TATAR\nAUTONOMOUS REPUBLIC (C.G. BATYEV)\nGO TO KAMAZ BY PLANE OR CAR\n1832 FLY FROM KAMAZ (NABEREZHNIYE CHELNY) TO MOSCOW (FLIGHT 358)\n2112 ARRIVE MOSCOW (BUKOVO)",
+                                    "answer_start": 1592,
+                                    "answer_end": 1920,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "SENATOR MONDALE",
+                            "id": 521234,
+                            "answers": [
+                                {
+                                    "answer_id": 581829,
+                                    "document_id": 979460,
+                                    "question_id": 521234,
+                                    "text": "0145 LEAVE MOSCOW FOR NOVOSIBIRSK (FLIGHT 181)\n0555 ARRIVE NOVOSIBIRSK (0955 LOCAL TIME)\nRECEIVED BY V.A. FELATOV, CHAIRMAN OF EXECUTIVE COMMITTEE\nOF PROVINCE OF NOVOSIBIRSK\nVISIT TO AKADEMGORODKO - LUNCH OR DINNER BY GOVERNOR",
+                                    "answer_start": 1944,
+                                    "answer_end": 2170,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "SENATOR MONDALE",
+                            "id": 521235,
+                            "answers": [
+                                {
+                                    "answer_id": 581830,
+                                    "document_id": 979460,
+                                    "question_id": 521235,
+                                    "text": "0920 FLY TO MOSCOW (FLIGHT 182) (1320 NOVOSIBIRSK TIME)\n(MOSCOW TIME)\n1350 ARRIVE MOSCOW (DOMODEDOVO)\n(MOSCOW TIME)\n1700 DINNER BY PARLIAMENTARY GROUP (PROBABLY HOSTED\nBY SHITIKOV)",
+                                    "answer_start": 2192,
+                                    "answer_end": 2372,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "SENATOR MONDALE",
+                            "id": 521236,
+                            "answers": [
+                                {
+                                    "answer_id": 581831,
+                                    "document_id": 979460,
+                                    "question_id": 521236,
+                                    "text": "1730 DEPARTURE SHEREMETYEVO TO LONDON (BEA 673)\n",
+                                    "answer_start": 2396,
+                                    "answer_end": 2444,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "U.S.-USSR TRADE AND ECONOMIC COUNCIL",
+                            "id": 521237,
+                            "answers": [
+                                {
+                                    "answer_id": 581832,
+                                    "document_id": 979460,
+                                    "question_id": 521237,
+                                    "text": "WEDNESDAY, NOVEMBER 13\nAT 12:30",
+                                    "answer_start": 3151,
+                                    "answer_end": 3182,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "AMBASSADOR STOESSEL",
+                            "id": 521238,
+                            "answers": [
+                                {
+                                    "answer_id": 581833,
+                                    "document_id": 979460,
+                                    "question_id": 521238,
+                                    "text": "SENATOR WHICH WOULD INVOLVE HIS SOVIET HOSTS AND OTHER SOVIET\nGUESTS",
+                                    "answer_start": 3822,
+                                    "answer_end": 3890,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "senator",
+                            "id": 521239,
+                            "answers": [
+                                {
+                                    "answer_id": 581834,
+                                    "document_id": 979460,
+                                    "question_id": 521239,
+                                    "text": " HOTEL SOVYETSKAYA",
+                                    "answer_start": 4799,
+                                    "answer_end": 4817,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "Hotel Sovyetskaya?",
+                            "id": 521240,
+                            "answers": [
+                                {
+                                    "answer_id": 581835,
+                                    "document_id": 979460,
+                                    "question_id": 521240,
+                                    "text": "THE GUEST HOTEL OF THE USSR COUNCIL OF MINISTERS",
+                                    "answer_start": 4819,
+                                    "answer_end": 4867,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "AMBASSADOR STOESSL",
+                            "id": 521241,
+                            "answers": [
+                                {
+                                    "answer_id": 581836,
+                                    "document_id": 979460,
+                                    "question_id": 521241,
+                                    "text": " SATURDAY, NOVEMBER 9",
+                                    "answer_start": 5077,
+                                    "answer_end": 5098,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "EMBASSY CONTROL OFFICER",
+                            "id": 521242,
+                            "answers": [
+                                {
+                                    "answer_id": 581837,
+                                    "document_id": 979460,
+                                    "question_id": 521242,
+                                    "text": "WARREN ZIMMERMANN",
+                                    "answer_start": 5307,
+                                    "answer_end": 5324,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        },
+                        {
+                            "question": "FSO Warren Zimmermann?",
+                            "id": 521243,
+                            "answers": [
+                                {
+                                    "answer_id": 581838,
+                                    "document_id": 979460,
+                                    "question_id": 521243,
+                                    "text": "EMBASSY CONTROL OFFICER",
+                                    "answer_start": 5276,
+                                    "answer_end": 5299,
+                                    "answer_category": null
+                                }
+                            ],
+                            "is_impossible": false
+                        }
+                    ],
+                    "context": "LIMITED OFFICIAL USE\n\nPAGE 01  MOSCOW 16845  051625Z\n\n44\nACTION H-03\n\nINFO  OCT-01  EUR-08  ISO-00  SSO-00  NSCE-00  SS-07  NSC-06\n\n      AID-01  RSC-01  \/027 W\n                       ---------------------     121145\nO P 051543Z NOV 74\nFM AMEMBASSY MOSCOW\nTO SECSTATE WASHDC IMMEDIATE4318\nINFO AMCONSUL LENINGRAD PRIORITY\n\n\nLIMITED OFFICIAL USE MOSCOW 16845\n\nE.O.  11652 N\/A\nTAGS: OREP (MONDALE, WALTER F.)\nSUBJ: TRAVEL TO USSR OF SENATOR MONDALE\n\nREF:  STATE 239408\n\n1.  MFA USA DIVISION HAS GIVEN US FOLLOWING PROPOSED SCHEDULE\nFOR SENATOR MONDALE AND HAS ASKED US TO PASS IT TO SENATOR\nVIA THE DEPARTMENT.\n\nSATURDAY, NOVEMBER 9\n1620 ARRIVE SHEREMETYEVO ON BEA 672 FROM LONDON TO HOTEL\nSOVETSKAYA\nTO EMBASSY FOR BRIEFING AND MEETING WITH U.S. PRESS\n\n1900 CIRCUS OR THEATER (ALTERNATIVELY, EMBASSY MARINE\nBALL, 2000)\n\nSUNDAY, NOVEMBER 10\n1000 MEETING WITH PARLIAMENTARY GROUP (HOSTED BY COUNCIL OF THE\nUNION CHAIRMAN SHITIKOV OR COUNCIL OF NATIONALITIES CHAIRMAN\nRUBEN)\n1100 TOUR OF KREMLIN PALACE AND OF SUPREME SOVIET CHAMBER\n1630 VISIT TO DEPUTY MINISTER OF FOREIGN TRAD MANZHULO\n1900 THEATER OR CIRCUS\n\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 02  MOSCOW 16845  051625Z\n\nMONDAY,NOVEMBER 11\n1000 STATE COMMITTEE ON SCIENCE AND TECHNOLOBY\n1600 LECTURE AT USA INSTITUTE\n2355 LEAVE FOR LENINGRAD ON RED ARROW EXPRESS TRAIN\n\nTUESDAY, NOVEMBER 12\n0820 ARRIVE LENINGRAD\nRECEIVED BY MAYOR OF LENINGRAD (V.I. KAZAKOV)\nVISIT SMOLNY INSTITUTE, PISKAREVSKOYE CEMETERY, HERMITAGE\nMUSEUM\nLUNCH GIVEN B MAYOR\n1941 LEAVE BY PLANE TO KAZAN (FLIGHT 5530)\n2201 ARRIVE KAZAN\n\nWEDNESDAY, NOVEMBER 13\n0900 RECEIVED BY MEMBER OF PRESIDIUM OF SUPREME SOVIET OF\nUSSR AND FIRST SECRETARY OF TATAR ASSR PARTY (F.A. TABEYEV)\nAND BY CHAIRMAN OF PRESIDIUM OF SUPREME SOVIET OF TATAR\nAUTONOMOUS REPUBLIC (C.G. BATYEV)\nGO TO KAMAZ BY PLANE OR CAR\n1832 FLY FROM KAMAZ (NABEREZHNIYE CHELNY) TO MOSCOW (FLIGHT 358)\n2112 ARRIVE MOSCOW (BUKOVO)\n\nTHURSDAY, NOVEMBER 14\n0145 LEAVE MOSCOW FOR NOVOSIBIRSK (FLIGHT 181)\n0555 ARRIVE NOVOSIBIRSK (0955 LOCAL TIME)\nRECEIVED BY V.A. FELATOV, CHAIRMAN OF EXECUTIVE COMMITTEE\nOF PROVINCE OF NOVOSIBIRSK\nVISIT TO AKADEMGORODKO - LUNCH OR DINNER BY GOVERNOR\n\nFRIDAY, NOVEMBER 15\n0920 FLY TO MOSCOW (FLIGHT 182) (1320 NOVOSIBIRSK TIME)\n(MOSCOW TIME)\n1350 ARRIVE MOSCOW (DOMODEDOVO)\n(MOSCOW TIME)\n1700 DINNER BY PARLIAMENTARY GROUP (PROBABLY HOSTED\nBY SHITIKOV)\n\nSATURDAY, NOVEMBER 16\n1730 DEPARTURE SHEREMETYEVO TO LONDON (BEA 673)\n\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 03  MOSCOW 16845  051625Z\n\n2.  PROPOSED SCHEDULE DOES NOT INCLUDE MEETING WITH BREZHNEV,\nBUT MFA SAYS MEETING IS PROBABLE (THESE ARE ALMOST NEVER\nARRANGED EXCEPT AT THE LAST MINUTE).  MEETING MAF (PROBABLY\nWITH FIRST DEPUTY FOREIGN MINISTER KUZNETSOV) IS ALSO A\nPOSSIBILITY.  IF SENATOR HAS CHANGES TO SUGGEST, WE RECOMMEND\nTHAT DEPARTMENT CABLE THEM TO US IMMEDIATE.  IDEALLY THEY\nSHOULD ARRIVE BEFORE COB MOSCOW TIME NOVEMBER 6 AS SOVIET\nOFFICES WILL BE CLOSED NOVEMBER 7, 8, AND 9.  (USA DIVISION\nWILL HAVE OFFICERS ON DUTY BUT WE DOUBT THAT SUPREME SOVIET\nWILL.)\n\n3.  U.S.-USSR TRADE AND ECONOMIC COUNCIL IS HOSTING\nA MONTHLY LUNCH FOR U.S. BUSINESSMEN WEDNESDAY, NOVEMBER 13\nAT 12:30 AT COUNCIL'S OFFICES TO WHICH SENATOR AND HIS PARTY\nARE INVITED.  WE NOTE THAT THIS CONFLICTS WITH PROPOSED SOVIET\nSCHEDULE.  ALTERNATIVE ARRANGEMENT FOR MEETING U.S. BUSINESSMEN\nCAN BE ARRANGED.  IF SENATOR WOULD LIKE TO MEET BUSINESSMEN\nMONDAY, NOVEMBER 11, HOWEVER (BEFORE LEAVING FOR LENINGRAD),\nIT WOULD BE HELPFUL TO KNOW BEFORE HOLIDAY PERIOD BEGINS\nHERE.\n\n4.  U.S. EXCHANGE STUDENTS VERY EAGER TO MEET SENATOR.  WE\nARE TRYING TO SET UP A MEETING AT MOSCOW STATE UNIVERSITY,\nAND WILL KEEP TIME OPEN SO THAT IT CAN BE FITTED INTO\nSENATOR'S SCHEDULE WHEN SCHEDULE IS FINALIZED.\n\n5.  AMBASSADOR STOESSEL WOULD LIKE TO HOST A LUNCH FOR\nSENATOR WHICH WOULD INVOLVE HIS SOVIET HOSTS AND OTHER SOVIET\nGUESTS.  ASSUMING NO MAJOR CHANGES IN SENATOR'S SCHEDULE, BEST\nTIME WOULD PROBABLY BE SATURDAY, NOVEMBER 16, AT 1300.\n\n6.  MFA ADVISES US THAT JOURNALISTS TRAVELLING FROM U.S.\nWITH SENATOR SHOULD MAKE HOTEL AND TRAVEL ARRANGEMENTS\nTHROUGH INTOURIST.  USA DIVISION HAS PROMISED TO BE\nHELPFUL IF JOURNALISTS HAVE ANY PROBLEMS WITH RESERVATIONS,\nBUT IT HAS MADE CLEAR THAT SOVIETS DO NOT REGARD\nJOURNALISTS AS GUESTS OF SUPREME SOVIET OR MEMBERS OF\nOFFICIAL IARTY.  SAME WILL DE TRUE FOR MOSCOW-BASED JOURNALISTS\n\n\n\nLIMITED OFFICIAL USE\n\nLIMITED OFFICIAL USE\n\nPAGE 04  MOSCOW 16845  051625Z\n\nSEAS  SSAI ION IN PRINCIPLE HAS RAISED NO\nOBJECTION TO JOURNALISTS ACCOMPANYING SENATOR ON TRAVELS\nOUTSIDE MOSCOW.\n\n7.  EMBASSY HAS RECEIVED REQUESTS FOR INTERVIEWS OF SENATOR\nBY MOSCOW RADIO AND TASS.  IF SENATOR IS AGREEABLE TO\nINTERVIEWS, DETAILS CAN BE WORKED OUT WHEN HE ARRIVES.\n\n8.  SENATOR AND PARTY WILL BE STAYING AT HOTEL SOVYETSKAYA,\nTHE GUEST HOTEL OF THE USSR COUNCIL OF MINISTERS.\nACCORDING TO USA DIVISION, ACCOMPANYING PRESS WILL\nPROBABLY NOT BE ABLE TO STAY AT SOVYETSKAYA SINCE IT IS\nNOT AN INTOURIST HOTEL.\n\n9.  AMBASSADOR STOESSL WILL CHAIR BRIEFING FOR SENATOR\nFOLLOWING HIS ARRIVAL SATURDAY, NOVEMBER 9.  AMBASSADOR\nWOULD ALSO LIKE TO INVITE SENATOR AND PARTY TO BE HIS GUESTS\nAT EMBASSY MARINE BALL, WHICH STARTS AT 2000 NOVEMBER 9.\nNO OBLIGATION INVOLVED HERE, OF COURSE.\n\n10.  EMBASSY CONTROL OFFICER IS FSO WARREN ZIMMERMANN.\nSTOESSEL\n\nNOTE BY OC\/T:  TEXT AS RECEIVED.\n\nLIMITED OFFICIAL USE\n\n\n\n\nNNN",
+                    "document_id": 1000059
+                }
+            ]
+        }
+    }
+}
