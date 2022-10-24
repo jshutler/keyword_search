@@ -1,5 +1,10 @@
-x = {"a": [1,1], "b": [1], "c": []}
+from collections import defaultdict
 
-y = sorted(x.items(), key=lambda a: len(a[1]))
+d = defaultdict(int)
 
-print(dict(y))
+
+d["A"] += 1 
+d["A"] += 1 
+
+d["b"] += 3
+print(d)
